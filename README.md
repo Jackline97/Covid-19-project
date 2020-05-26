@@ -3,7 +3,7 @@
 Initial stage
 1. whitelist_data.csv contains all white domain list with its feature(Length:600).
 2. unlabeled_data.csv contains all unlabeled domain list with its feature(Length:265336).
-3. Covid.ipynb produce the inital featrue extraction from the raw data according to Professor Sopie's thesis.
+3. Covid.ipynb produces the inital featrue extraction from the raw data according to Professor Sopie's thesis.
 
 | Feature | Data type  | 
 | ------- | --- | 
