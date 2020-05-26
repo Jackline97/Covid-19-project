@@ -1,0 +1,4027 @@
+{
+ "total": 645,
+ "results": [
+  {
+   "last_seen": "2020-05-25",
+   "qtype": "28",
+   "qname": "covid19.iesalud.edu.mx",
+   "domain": "iesalud.edu.mx",
+   "dname_first_ts": "2014-08-04",
+   "qname_first_ts": "2020-03-24T03:29:50.121Z",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "balancer.wixdns.net",
+   "first_seen": "2020-05-25"
+  },
+  {
+   "last_seen": "2020-05-25",
+   "qtype": "28",
+   "qname": "covid19.iesalud.edu.mx",
+   "domain": "iesalud.edu.mx",
+   "dname_first_ts": "2014-08-04",
+   "qname_first_ts": "2020-03-24T03:29:50.121Z",
+   "type": "name",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "www235.wixdns.net",
+   "first_seen": "2020-05-25"
+  },
+  {
+   "last_seen": "2020-05-25",
+   "qtype": "28",
+   "qname": "covid19.iesalud.edu.mx",
+   "domain": "iesalud.edu.mx",
+   "dname_first_ts": "2014-08-04",
+   "qname_first_ts": "2020-03-24T03:29:50.121Z",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "www235.wixdns.net",
+   "first_seen": "2020-05-25"
+  },
+  {
+   "geoip": {
+    "continent_name": "North America",
+    "country_iso_code": "US"
+   },
+   "last_seen": "2020-05-25",
+   "qtype": "1",
+   "qname": "coronavirus.ula.edu.mx",
+   "domain": "ula.edu.mx",
+   "dname_first_ts": "2014-08-09",
+   "qname_first_ts": "2020-03-21T22:16:53.079Z",
+   "type": "a",
+   "ruleID": "b000d4226a60db4f1d5b3a24c4d84f6d",
+   "value": "52.53.110.86",
+   "first_seen": "2020-05-25"
+  },
+  {
+   "geoip": {
+    "continent_name": "North America",
+    "country_iso_code": "US"
+   },
+   "last_seen": "2020-05-25",
+   "qtype": "1",
+   "qname": "coronavirus.ula.edu.mx",
+   "domain": "ula.edu.mx",
+   "dname_first_ts": "2014-08-09",
+   "qname_first_ts": "2020-03-21T22:16:53.079Z",
+   "type": "a",
+   "ruleID": "b000d4226a60db4f1d5b3a24c4d84f6d",
+   "value": "52.52.200.193",
+   "first_seen": "2020-05-25"
+  },
+  {
+   "geoip": {
+    "continent_name": "North America",
+    "country_iso_code": "US"
+   },
+   "last_seen": "2020-05-25",
+   "qtype": "1",
+   "qname": "covid19.yenepoya.edu.in",
+   "domain": "yenepoya.edu.in",
+   "dname_first_ts": "2014-08-01",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "34.192.237.179",
+   "first_seen": "2020-05-25"
+  },
+  {
+   "geoip": {
+    "continent_name": "Asia",
+    "country_iso_code": "CN"
+   },
+   "last_seen": "2020-05-25",
+   "qtype": "1",
+   "qname": "covid-19.lzu.edu.cn",
+   "domain": "lzu.edu.cn",
+   "dname_first_ts": "2014-07-25",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "210.26.49.31",
+   "first_seen": "2020-05-25"
+  },
+  {
+   "geoip": {
+    "continent_name": "South America",
+    "country_iso_code": "BR"
+   },
+   "last_seen": "2020-05-25",
+   "qtype": "1",
+   "qname": "observatoriocovid.unespar.edu.br",
+   "domain": "unespar.edu.br",
+   "dname_first_ts": "2014-07-25",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "200.201.12.91",
+   "first_seen": "2020-05-25"
+  },
+  {
+   "last_seen": "2020-05-24",
+   "qtype": "2",
+   "qname": "acoescovid19.unifesspa.edu.br",
+   "domain": "unifesspa.edu.br",
+   "dname_first_ts": "2014-07-25",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "portais.unifesspa.edu.br",
+   "first_seen": "2020-05-24"
+  },
+  {
+   "last_seen": "2020-05-24",
+   "qtype": "16",
+   "qname": "acoescovid19.unifesspa.edu.br",
+   "domain": "unifesspa.edu.br",
+   "dname_first_ts": "2014-07-25",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "portais.unifesspa.edu.br",
+   "first_seen": "2020-05-24"
+  },
+  {
+   "last_seen": "2020-05-24",
+   "qtype": "28",
+   "qname": "www.covid19.mu.edu.tr",
+   "domain": "mu.edu.tr",
+   "dname_first_ts": "2014-07-25",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "onurweb.mu.edu.tr",
+   "first_seen": "2020-05-24"
+  },
+  {
+   "last_seen": "2020-05-24",
+   "qtype": "1",
+   "qname": "covid19.ozyegin.edu.tr",
+   "domain": "ozyegin.edu.tr",
+   "dname_first_ts": "2014-07-27",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "covid19.ozyegin.edu.tr.trafficmanager.net",
+   "first_seen": "2020-05-24"
+  },
+  {
+   "last_seen": "2020-05-24",
+   "qtype": "1",
+   "qname": "covid19.ozyegin.edu.tr",
+   "domain": "ozyegin.edu.tr",
+   "dname_first_ts": "2014-07-27",
+   "type": "name",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "covid19.ozyegin.edu.tr.trafficmanager.net",
+   "first_seen": "2020-05-24"
+  },
+  {
+   "last_seen": "2020-05-24",
+   "qtype": "1",
+   "qname": "covid19.ozyegin.edu.tr",
+   "domain": "ozyegin.edu.tr",
+   "dname_first_ts": "2014-07-27",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "covid191.ozyegin.edu.tr",
+   "first_seen": "2020-05-24"
+  },
+  {
+   "last_seen": "2020-05-24",
+   "qtype": "1",
+   "qname": "covid19.ozyegin.edu.tr",
+   "domain": "ozyegin.edu.tr",
+   "dname_first_ts": "2014-07-27",
+   "type": "name",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "covid191.ozyegin.edu.tr",
+   "first_seen": "2020-05-24"
+  },
+  {
+   "last_seen": "2020-05-24",
+   "qtype": "0",
+   "qname": "covid19maskssale.edu.ge",
+   "domain": "covid19maskssale.edu.ge",
+   "dname_first_ts": "2020-05-24",
+   "type": "domain",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "covid19maskssale.edu.ge",
+   "first_seen": "2020-05-24"
+  },
+  {
+   "geoip": {
+    "continent_name": "Asia",
+    "country_iso_code": "TR"
+   },
+   "last_seen": "2020-05-24",
+   "qtype": "1",
+   "qname": "covid19.asbu.edu.tr",
+   "domain": "asbu.edu.tr",
+   "dname_first_ts": "2014-08-20",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "193.255.62.34",
+   "first_seen": "2020-05-24"
+  },
+  {
+   "last_seen": "2020-05-23",
+   "qtype": "0",
+   "qname": "free1covid.edu.ge",
+   "domain": "free1covid.edu.ge",
+   "dname_first_ts": "2020-05-23",
+   "type": "domain",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "free1covid.edu.ge",
+   "first_seen": "2020-05-23"
+  },
+  {
+   "last_seen": "2020-05-23",
+   "qtype": "1",
+   "qname": "coronavirus.kaust.edu.sa",
+   "domain": "kaust.edu.sa",
+   "dname_first_ts": "2014-07-25",
+   "type": "name",
+   "ruleID": "b000d4226a60db4f1d5b3a24c4d84f6d",
+   "value": "rproxy.kaust.edu.sa",
+   "first_seen": "2020-05-23"
+  },
+  {
+   "geoip": {
+    "continent_name": "Asia",
+    "country_iso_code": "SA"
+   },
+   "last_seen": "2020-05-23",
+   "qtype": "1",
+   "qname": "coronavirus.kaust.edu.sa",
+   "domain": "kaust.edu.sa",
+   "dname_first_ts": "2014-07-25",
+   "type": "a",
+   "ruleID": "b000d4226a60db4f1d5b3a24c4d84f6d",
+   "value": "109.171.129.32",
+   "first_seen": "2020-05-23"
+  },
+  {
+   "last_seen": "2020-05-23",
+   "qtype": "1",
+   "qname": "coronavirus.kaust.edu.sa",
+   "domain": "kaust.edu.sa",
+   "dname_first_ts": "2014-07-25",
+   "type": "cname",
+   "ruleID": "b000d4226a60db4f1d5b3a24c4d84f6d",
+   "value": "rproxy.kaust.edu.sa",
+   "first_seen": "2020-05-23"
+  },
+  {
+   "last_seen": "2020-05-23",
+   "qtype": "28",
+   "qname": "covidmap.reduc.edu.cu",
+   "domain": "reduc.edu.cu",
+   "dname_first_ts": "2014-08-01",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "webproxy.reduc.edu.cu",
+   "first_seen": "2020-05-23"
+  },
+  {
+   "geoip": {
+    "continent_name": "North America",
+    "country_iso_code": "CU"
+   },
+   "last_seen": "2020-05-23",
+   "qtype": "1",
+   "qname": "covidmap.reduc.edu.cu",
+   "domain": "reduc.edu.cu",
+   "dname_first_ts": "2014-08-01",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "200.14.53.140",
+   "first_seen": "2020-05-23"
+  },
+  {
+   "last_seen": "2020-05-23",
+   "qtype": "1",
+   "qname": "covidmap.reduc.edu.cu",
+   "domain": "reduc.edu.cu",
+   "dname_first_ts": "2014-08-01",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "webproxy.reduc.edu.cu",
+   "first_seen": "2020-05-23"
+  },
+  {
+   "last_seen": "2020-05-23",
+   "qtype": "1",
+   "qname": "covidmap.reduc.edu.cu",
+   "domain": "reduc.edu.cu",
+   "dname_first_ts": "2014-08-01",
+   "type": "name",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "webproxy.reduc.edu.cu",
+   "first_seen": "2020-05-23"
+  },
+  {
+   "last_seen": "2020-05-23",
+   "qtype": "28",
+   "qname": "coviduc.reduc.edu.cu",
+   "domain": "reduc.edu.cu",
+   "dname_first_ts": "2014-08-01",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "webproxy.reduc.edu.cu",
+   "first_seen": "2020-05-23"
+  },
+  {
+   "last_seen": "2020-05-23",
+   "qtype": "28",
+   "qname": "covid.reduc.edu.cu",
+   "domain": "reduc.edu.cu",
+   "dname_first_ts": "2014-08-01",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "webproxy.reduc.edu.cu",
+   "first_seen": "2020-05-23"
+  },
+  {
+   "geoip": {
+    "continent_name": "North America",
+    "country_iso_code": "CU"
+   },
+   "last_seen": "2020-05-23",
+   "qtype": "1",
+   "qname": "covid.reduc.edu.cu",
+   "domain": "reduc.edu.cu",
+   "dname_first_ts": "2014-08-01",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "200.14.53.140",
+   "first_seen": "2020-05-23"
+  },
+  {
+   "last_seen": "2020-05-23",
+   "qtype": "1",
+   "qname": "covid.reduc.edu.cu",
+   "domain": "reduc.edu.cu",
+   "dname_first_ts": "2014-08-01",
+   "type": "name",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "webproxy.reduc.edu.cu",
+   "first_seen": "2020-05-23"
+  },
+  {
+   "last_seen": "2020-05-23",
+   "qtype": "1",
+   "qname": "covid.reduc.edu.cu",
+   "domain": "reduc.edu.cu",
+   "dname_first_ts": "2014-08-01",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "webproxy.reduc.edu.cu",
+   "first_seen": "2020-05-23"
+  },
+  {
+   "last_seen": "2020-05-23",
+   "qtype": "16",
+   "qname": "voluntariadocovid.unicen.edu.ar",
+   "domain": "unicen.edu.ar",
+   "dname_first_ts": "2014-07-26",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "webfront.unicen.edu.ar",
+   "first_seen": "2020-05-23"
+  },
+  {
+   "geoip": {
+    "continent_name": "Asia",
+    "country_iso_code": "TR"
+   },
+   "last_seen": "2020-05-23",
+   "qtype": "1",
+   "qname": "covid19.uskudaruniversitesi.edu.tr",
+   "domain": "uskudaruniversitesi.edu.tr",
+   "dname_first_ts": "2018-01-24",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "212.174.115.230",
+   "first_seen": "2020-05-23"
+  },
+  {
+   "geoip": {
+    "continent_name": "Asia",
+    "country_iso_code": "TR"
+   },
+   "last_seen": "2020-05-23",
+   "qtype": "1",
+   "qname": "covid19.comu.edu.tr",
+   "domain": "comu.edu.tr",
+   "dname_first_ts": "2014-07-25",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "193.255.97.70",
+   "first_seen": "2020-05-23"
+  },
+  {
+   "geoip": {
+    "continent_name": "Asia",
+    "country_iso_code": "TR"
+   },
+   "last_seen": "2020-05-22",
+   "qtype": "1",
+   "qname": "covid19.agri.edu.tr",
+   "domain": "agri.edu.tr",
+   "dname_first_ts": "2014-08-01",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "194.27.217.15",
+   "first_seen": "2020-05-22"
+  },
+  {
+   "geoip": {
+    "continent_name": "North America",
+    "country_iso_code": "US"
+   },
+   "last_seen": "2020-05-22",
+   "qtype": "1",
+   "qname": "buenaspracticascovid19.udc.edu.ar",
+   "domain": "udc.edu.ar",
+   "dname_first_ts": "2014-07-28",
+   "qname_first_ts": "2020-05-11T16:31:52.699Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "208.64.64.146",
+   "first_seen": "2020-05-22"
+  },
+  {
+   "last_seen": "2020-05-22",
+   "qtype": "1",
+   "qname": "covid19.btu.edu.tr",
+   "domain": "btu.edu.tr",
+   "dname_first_ts": "2014-07-26",
+   "qname_first_ts": "2020-05-07T09:45:20.791Z",
+   "type": "name",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "btu.edu.tr",
+   "first_seen": "2020-05-22"
+  },
+  {
+   "geoip": {
+    "continent_name": "Asia",
+    "country_iso_code": "TR"
+   },
+   "last_seen": "2020-05-22",
+   "qtype": "1",
+   "qname": "covid19.btu.edu.tr",
+   "domain": "btu.edu.tr",
+   "dname_first_ts": "2014-07-26",
+   "qname_first_ts": "2020-05-07T09:45:20.791Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "79.123.219.24",
+   "first_seen": "2020-05-22"
+  },
+  {
+   "last_seen": "2020-05-22",
+   "qtype": "1",
+   "qname": "covid19.btu.edu.tr",
+   "domain": "btu.edu.tr",
+   "dname_first_ts": "2014-07-26",
+   "qname_first_ts": "2020-05-07T09:45:20.791Z",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "btu.edu.tr",
+   "first_seen": "2020-05-22"
+  },
+  {
+   "geoip": {
+    "continent_name": "Asia",
+    "country_iso_code": "TR"
+   },
+   "last_seen": "2020-05-22",
+   "qtype": "1",
+   "qname": "covid19.aksaray.edu.tr",
+   "domain": "aksaray.edu.tr",
+   "dname_first_ts": "2014-07-31",
+   "qname_first_ts": "2020-05-22T09:14:19.884Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "193.255.218.75",
+   "first_seen": "2020-05-22"
+  },
+  {
+   "geoip": {
+    "continent_name": "North America",
+    "country_iso_code": "US"
+   },
+   "last_seen": "2020-05-22",
+   "qtype": "1",
+   "qname": "covid19.lasalle.edu.sg",
+   "domain": "lasalle.edu.sg",
+   "dname_first_ts": "2014-07-29",
+   "qname_first_ts": "2020-03-03T11:27:22.424Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "172.217.9.179",
+   "first_seen": "2020-05-22"
+  },
+  {
+   "last_seen": "2020-05-22",
+   "qtype": "28",
+   "domain": "lasalle.edu.sg",
+   "qname": "covid19.lasalle.edu.sg",
+   "dname_first_ts": "2014-07-29",
+   "qname_first_ts": "2020-03-03T11:27:22.424Z",
+   "type": "aaaa",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "2607:f8b0:4000:814::2013",
+   "first_seen": "2020-05-22"
+  },
+  {
+   "last_seen": "2020-05-21",
+   "qtype": "2",
+   "qname": "covid19.mimuw.edu.pl",
+   "domain": "mimuw.edu.pl",
+   "dname_first_ts": "2014-07-30",
+   "qname_first_ts": "2020-04-28T14:33:41.001Z",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "duch.mimuw.edu.pl",
+   "first_seen": "2020-05-21"
+  },
+  {
+   "last_seen": "2020-05-21",
+   "qtype": "28",
+   "qname": "covid19.ozyegin.edu.tr",
+   "domain": "ozyegin.edu.tr",
+   "dname_first_ts": "2014-07-27",
+   "qname_first_ts": "2020-04-07T15:55:26.881Z",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "covid19.ozyegin.edu.tr.trafficmanager.net",
+   "first_seen": "2020-05-21"
+  },
+  {
+   "geoip": {
+    "continent_name": "Asia",
+    "country_iso_code": "TR"
+   },
+   "last_seen": "2020-05-21",
+   "qtype": "1",
+   "qname": "covid191.ozyegin.edu.tr",
+   "domain": "ozyegin.edu.tr",
+   "dname_first_ts": "2014-07-27",
+   "qname_first_ts": "2020-05-21T15:51:56.475Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "178.237.48.110",
+   "first_seen": "2020-05-21"
+  },
+  {
+   "last_seen": "2020-05-21",
+   "qtype": "1",
+   "qname": "covid19.dpu.edu.tr",
+   "domain": "dpu.edu.tr",
+   "dname_first_ts": "2014-07-25",
+   "qname_first_ts": "2020-05-21T09:33:01.884Z",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "birimler.dpu.edu.tr",
+   "first_seen": "2020-05-21"
+  },
+  {
+   "last_seen": "2020-05-21",
+   "qtype": "1",
+   "qname": "covid19.dpu.edu.tr",
+   "domain": "dpu.edu.tr",
+   "dname_first_ts": "2014-07-25",
+   "qname_first_ts": "2020-05-21T09:33:01.884Z",
+   "type": "name",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "birimler.dpu.edu.tr",
+   "first_seen": "2020-05-21"
+  },
+  {
+   "geoip": {
+    "continent_name": "Asia",
+    "country_iso_code": "TR"
+   },
+   "last_seen": "2020-05-21",
+   "qtype": "1",
+   "qname": "covid19.dpu.edu.tr",
+   "domain": "dpu.edu.tr",
+   "dname_first_ts": "2014-07-25",
+   "qname_first_ts": "2020-05-21T09:33:01.884Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "194.27.43.67",
+   "first_seen": "2020-05-21"
+  },
+  {
+   "geoip": {
+    "continent_name": "Europe",
+    "country_iso_code": "PL"
+   },
+   "last_seen": "2020-05-21",
+   "qtype": "1",
+   "qname": "covid-19-studentexperience.wum.edu.pl",
+   "domain": "wum.edu.pl",
+   "dname_first_ts": "2014-07-26",
+   "qname_first_ts": "2020-05-21T01:40:37.668Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "212.87.25.119",
+   "first_seen": "2020-05-21"
+  },
+  {
+   "geoip": {
+    "continent_name": "Asia",
+    "country_iso_code": "TR"
+   },
+   "last_seen": "2020-05-21",
+   "qtype": "1",
+   "qname": "covid19.metu.edu.tr",
+   "domain": "metu.edu.tr",
+   "dname_first_ts": "2014-07-25",
+   "qname_first_ts": "2020-05-21T01:30:47.335Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "144.122.145.145",
+   "first_seen": "2020-05-21"
+  },
+  {
+   "last_seen": "2020-05-21",
+   "qtype": "1",
+   "qname": "covid19.metu.edu.tr",
+   "domain": "metu.edu.tr",
+   "dname_first_ts": "2014-07-25",
+   "qname_first_ts": "2020-05-21T01:30:47.335Z",
+   "type": "name",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "sia.general.services.metu.edu.tr",
+   "first_seen": "2020-05-21"
+  },
+  {
+   "last_seen": "2020-05-21",
+   "qtype": "1",
+   "qname": "covid19.metu.edu.tr",
+   "domain": "metu.edu.tr",
+   "dname_first_ts": "2014-07-25",
+   "qname_first_ts": "2020-05-21T01:30:47.335Z",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "sia.general.services.metu.edu.tr",
+   "first_seen": "2020-05-21"
+  },
+  {
+   "last_seen": "2020-05-21",
+   "qtype": "28",
+   "qname": "covid19.beun.edu.tr",
+   "domain": "beun.edu.tr",
+   "dname_first_ts": "2014-07-25",
+   "qname_first_ts": "2020-03-22T22:26:05.169Z",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "beuweb.beun.edu.tr",
+   "first_seen": "2020-05-21"
+  },
+  {
+   "last_seen": "2020-05-21",
+   "qtype": "28",
+   "domain": "beun.edu.tr",
+   "qname": "covid19.beun.edu.tr",
+   "dname_first_ts": "2014-07-25",
+   "qname_first_ts": "2020-03-22T22:26:05.169Z",
+   "type": "aaaa",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "2001:a98:190::34",
+   "first_seen": "2020-05-21"
+  },
+  {
+   "last_seen": "2020-05-21",
+   "qtype": "28",
+   "qname": "covid19.beun.edu.tr",
+   "domain": "beun.edu.tr",
+   "dname_first_ts": "2014-07-25",
+   "qname_first_ts": "2020-03-22T22:26:05.169Z",
+   "type": "name",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "beuweb.beun.edu.tr",
+   "first_seen": "2020-05-21"
+  },
+  {
+   "last_seen": "2020-05-20",
+   "qtype": "0",
+   "qname": "coronavirustips.edu.ge",
+   "domain": "coronavirustips.edu.ge",
+   "dname_first_ts": "2020-05-20",
+   "qname_first_ts": "2020-05-20T19:21:18.188Z",
+   "type": "domain",
+   "ruleID": "b000d4226a60db4f1d5b3a24c4d84f6d",
+   "value": "coronavirustips.edu.ge",
+   "first_seen": "2020-05-20"
+  },
+  {
+   "last_seen": "2020-05-20",
+   "qtype": "43",
+   "qname": "covid.usfq.edu.ec",
+   "domain": "usfq.edu.ec",
+   "dname_first_ts": "2014-07-26",
+   "qname_first_ts": "2020-05-19T19:38:36.005Z",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "healthecuador.org",
+   "first_seen": "2020-05-20"
+  },
+  {
+   "last_seen": "2020-05-20",
+   "qtype": "2",
+   "qname": "covid19.usfq.edu.ec",
+   "domain": "usfq.edu.ec",
+   "dname_first_ts": "2014-07-26",
+   "qname_first_ts": "2020-05-18T16:14:48.039Z",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "healthecuador.org",
+   "first_seen": "2020-05-20"
+  },
+  {
+   "last_seen": "2020-05-20",
+   "qtype": "2",
+   "qname": "covid.usfq.edu.ec",
+   "domain": "usfq.edu.ec",
+   "dname_first_ts": "2014-07-26",
+   "qname_first_ts": "2020-05-19T19:38:36.005Z",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "healthecuador.org",
+   "first_seen": "2020-05-20"
+  },
+  {
+   "last_seen": "2020-05-19",
+   "qtype": "1",
+   "domain": "whu.edu.cn",
+   "qname": "sigma-covid.whu.edu.cn",
+   "dname_first_ts": "2014-07-26",
+   "qname_first_ts": "2020-05-19T21:32:06.170Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "10.10.14.14",
+   "first_seen": "2020-05-19"
+  },
+  {
+   "last_seen": "2020-05-19",
+   "qtype": "1",
+   "qname": "covid.usfq.edu.ec",
+   "domain": "usfq.edu.ec",
+   "dname_first_ts": "2014-07-26",
+   "qname_first_ts": "2020-05-19T19:38:36.005Z",
+   "type": "name",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "www4.usfq.edu.ec",
+   "first_seen": "2020-05-19"
+  },
+  {
+   "last_seen": "2020-05-19",
+   "qtype": "1",
+   "qname": "covid.usfq.edu.ec",
+   "domain": "usfq.edu.ec",
+   "dname_first_ts": "2014-07-26",
+   "qname_first_ts": "2020-05-19T19:38:36.005Z",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "www4.usfq.edu.ec",
+   "first_seen": "2020-05-19"
+  },
+  {
+   "geoip": {
+    "continent_name": "South America",
+    "country_iso_code": "EC"
+   },
+   "last_seen": "2020-05-19",
+   "qtype": "1",
+   "qname": "covid.usfq.edu.ec",
+   "domain": "usfq.edu.ec",
+   "dname_first_ts": "2014-07-26",
+   "qname_first_ts": "2020-05-19T19:38:36.005Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "192.188.53.205",
+   "first_seen": "2020-05-19"
+  },
+  {
+   "geoip": {
+    "continent_name": "Asia",
+    "country_iso_code": "IN"
+   },
+   "last_seen": "2020-05-19",
+   "qtype": "1",
+   "qname": "www.covid19.gurumishrihmc.edu.in",
+   "domain": "gurumishrihmc.edu.in",
+   "dname_first_ts": "2018-04-27",
+   "qname_first_ts": "2020-05-19T13:31:18.489Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "103.21.58.201",
+   "first_seen": "2020-05-19"
+  },
+  {
+   "geoip": {
+    "continent_name": "Asia",
+    "country_iso_code": "MO"
+   },
+   "last_seen": "2020-05-19",
+   "qtype": "1",
+   "qname": "covid-19.must.edu.mo",
+   "domain": "must.edu.mo",
+   "dname_first_ts": "2014-07-30",
+   "qname_first_ts": "2020-05-19T08:31:18.566Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "202.175.31.133",
+   "first_seen": "2020-05-19"
+  },
+  {
+   "last_seen": "2020-05-18",
+   "qtype": "2",
+   "qname": "covid19.usfq.edu.ec",
+   "domain": "usfq.edu.ec",
+   "dname_first_ts": "2014-07-26",
+   "qname_first_ts": "2020-05-18T16:14:48.039Z",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "www4.usfq.edu.ec",
+   "first_seen": "2020-05-18"
+  },
+  {
+   "last_seen": "2020-05-18",
+   "qtype": "0",
+   "qname": "covidppemask.edu.ge",
+   "domain": "covidppemask.edu.ge",
+   "dname_first_ts": "2020-05-18",
+   "qname_first_ts": "2020-05-18T18:49:55.529Z",
+   "type": "domain",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "covidppemask.edu.ge",
+   "first_seen": "2020-05-18"
+  },
+  {
+   "geoip": {
+    "continent_name": "Europe",
+    "country_iso_code": "FR"
+   },
+   "last_seen": "2020-05-18",
+   "qtype": "1",
+   "qname": "www.repertoirecovid19.uvci.edu.ci",
+   "domain": "uvci.edu.ci",
+   "dname_first_ts": "2015-09-01",
+   "qname_first_ts": "2020-05-18T18:41:58.204Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "79.99.165.44",
+   "first_seen": "2020-05-18"
+  },
+  {
+   "last_seen": "2020-05-18",
+   "qtype": "1",
+   "qname": "covid19.usfq.edu.ec",
+   "domain": "usfq.edu.ec",
+   "dname_first_ts": "2014-07-26",
+   "qname_first_ts": "2020-05-18T16:14:48.039Z",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "www4.usfq.edu.ec",
+   "first_seen": "2020-05-18"
+  },
+  {
+   "last_seen": "2020-05-18",
+   "qtype": "1",
+   "qname": "covid19.usfq.edu.ec",
+   "domain": "usfq.edu.ec",
+   "dname_first_ts": "2014-07-26",
+   "qname_first_ts": "2020-05-18T16:14:48.039Z",
+   "type": "name",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "www4.usfq.edu.ec",
+   "first_seen": "2020-05-18"
+  },
+  {
+   "geoip": {
+    "continent_name": "South America",
+    "country_iso_code": "EC"
+   },
+   "last_seen": "2020-05-18",
+   "qtype": "1",
+   "qname": "covid19.usfq.edu.ec",
+   "domain": "usfq.edu.ec",
+   "dname_first_ts": "2014-07-26",
+   "qname_first_ts": "2020-05-18T16:14:48.039Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "192.188.53.205",
+   "first_seen": "2020-05-18"
+  },
+  {
+   "last_seen": "2020-05-18",
+   "qtype": "28",
+   "qname": "covid19.ege.edu.tr",
+   "domain": "ege.edu.tr",
+   "dname_first_ts": "2014-07-25",
+   "qname_first_ts": "2020-05-18T15:59:51.783Z",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "egeweb.ege.edu.tr",
+   "first_seen": "2020-05-18"
+  },
+  {
+   "geoip": {
+    "continent_name": "Asia",
+    "country_iso_code": "TR"
+   },
+   "last_seen": "2020-05-18",
+   "qtype": "1",
+   "qname": "covid19.mef.edu.tr",
+   "domain": "mef.edu.tr",
+   "dname_first_ts": "2014-08-07",
+   "qname_first_ts": "2020-05-18T15:59:34.687Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "213.14.214.3",
+   "first_seen": "2020-05-18"
+  },
+  {
+   "last_seen": "2020-05-18",
+   "qtype": "43",
+   "qname": "www.covid-19.okoram.edu.pl",
+   "domain": "okoram.edu.pl",
+   "dname_first_ts": "2020-03-18",
+   "qname_first_ts": "2020-03-18T13:51:59.183Z",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "covid-19.okoram.edu.pl",
+   "first_seen": "2020-05-18"
+  },
+  {
+   "geoip": {
+    "continent_name": "North America",
+    "country_iso_code": "US"
+   },
+   "last_seen": "2020-05-17",
+   "qtype": "1",
+   "qname": "www.covid19.unifacema.edu.br",
+   "domain": "unifacema.edu.br",
+   "dname_first_ts": "2018-08-05",
+   "qname_first_ts": "2020-05-17T05:40:24.732Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "198.136.48.194",
+   "first_seen": "2020-05-17"
+  },
+  {
+   "last_seen": "2020-05-16",
+   "qtype": "28",
+   "qname": "sondaze.covid19.icm.edu.pl",
+   "domain": "icm.edu.pl",
+   "dname_first_ts": "2014-07-25",
+   "qname_first_ts": "2020-05-16T21:42:39.392Z",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "www6.cis.icm.edu.pl",
+   "first_seen": "2020-05-16"
+  },
+  {
+   "geoip": {
+    "continent_name": "Europe",
+    "country_iso_code": "PL"
+   },
+   "last_seen": "2020-05-16",
+   "qtype": "1",
+   "qname": "sondaze.covid19.icm.edu.pl",
+   "domain": "icm.edu.pl",
+   "dname_first_ts": "2014-07-25",
+   "qname_first_ts": "2020-05-16T21:42:39.392Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "213.135.59.42",
+   "first_seen": "2020-05-16"
+  },
+  {
+   "last_seen": "2020-05-16",
+   "qtype": "1",
+   "qname": "sondaze.covid19.icm.edu.pl",
+   "domain": "icm.edu.pl",
+   "dname_first_ts": "2014-07-25",
+   "qname_first_ts": "2020-05-16T21:42:39.392Z",
+   "type": "name",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "www6.cis.icm.edu.pl",
+   "first_seen": "2020-05-16"
+  },
+  {
+   "last_seen": "2020-05-16",
+   "qtype": "1",
+   "qname": "sondaze.covid19.icm.edu.pl",
+   "domain": "icm.edu.pl",
+   "dname_first_ts": "2014-07-25",
+   "qname_first_ts": "2020-05-16T21:42:39.392Z",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "www6.cis.icm.edu.pl",
+   "first_seen": "2020-05-16"
+  },
+  {
+   "last_seen": "2020-05-16",
+   "qtype": "5",
+   "qname": "covid.icm.edu.pl",
+   "domain": "icm.edu.pl",
+   "dname_first_ts": "2014-07-25",
+   "qname_first_ts": "2020-03-31T20:29:15.239Z",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "covid-prod.icm.edu.pl",
+   "first_seen": "2020-05-16"
+  },
+  {
+   "geoip": {
+    "continent_name": "Asia",
+    "country_iso_code": "BD"
+   },
+   "last_seen": "2020-05-15",
+   "qtype": "1",
+   "qname": "covid19.iub.edu.bd",
+   "domain": "iub.edu.bd",
+   "dname_first_ts": "2014-08-01",
+   "qname_first_ts": "2020-05-15T20:50:30.667Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "103.81.69.25",
+   "first_seen": "2020-05-15"
+  },
+  {
+   "last_seen": "2020-05-15",
+   "qtype": "16",
+   "domain": "unifacema.edu.br",
+   "qname": "covid19.unifacema.edu.br",
+   "spf_refs": {
+    "cidr": [
+     "198.136.48.194/32"
+    ],
+    "policy": "softfail"
+   },
+   "dname_first_ts": "2018-08-05",
+   "qname_first_ts": "2020-05-13T04:22:27.341Z",
+   "type": "txt",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "&v=spf1 +a +mx +ip4:198.136.48.194 ~all",
+   "first_seen": "2020-05-15"
+  },
+  {
+   "last_seen": "2020-05-15",
+   "qtype": "16",
+   "domain": "unifacema.edu.br",
+   "qname": "covid19.unifacema.edu.br",
+   "dname_first_ts": "2018-08-05",
+   "qname_first_ts": "2020-05-13T04:22:27.341Z",
+   "type": "txt_base64",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "JnY9c3BmMSArYSArbXggK2lwNDoxOTguMTM2LjQ4LjE5NCB+YWxs",
+   "first_seen": "2020-05-15"
+  },
+  {
+   "last_seen": "2020-05-15",
+   "qtype": "28",
+   "domain": "lasalle.edu.sg",
+   "qname": "covid19.lasalle.edu.sg",
+   "dname_first_ts": "2014-07-29",
+   "qname_first_ts": "2020-03-03T11:27:22.424Z",
+   "type": "aaaa",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "2607:f8b0:4000:813::2013",
+   "first_seen": "2020-05-15"
+  },
+  {
+   "geoip": {
+    "continent_name": "North America",
+    "country_iso_code": "US"
+   },
+   "last_seen": "2020-05-15",
+   "qtype": "1",
+   "qname": "covid19.lasalle.edu.sg",
+   "domain": "lasalle.edu.sg",
+   "dname_first_ts": "2014-07-29",
+   "qname_first_ts": "2020-03-03T11:27:22.424Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "172.217.6.147",
+   "first_seen": "2020-05-15"
+  },
+  {
+   "last_seen": "2020-05-14",
+   "qtype": "1",
+   "qname": "covid19.batstate-u.edu.ph",
+   "domain": "batstate-u.edu.ph",
+   "dname_first_ts": "2014-08-01",
+   "qname_first_ts": "2020-05-14T13:48:02.536Z",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "heracles.batstate-u.edu.ph",
+   "first_seen": "2020-05-14"
+  },
+  {
+   "geoip": {
+    "continent_name": "Asia",
+    "country_iso_code": "PH"
+   },
+   "last_seen": "2020-05-14",
+   "qtype": "1",
+   "qname": "covid19.batstate-u.edu.ph",
+   "domain": "batstate-u.edu.ph",
+   "dname_first_ts": "2014-08-01",
+   "qname_first_ts": "2020-05-14T13:48:02.536Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "222.127.27.16",
+   "first_seen": "2020-05-14"
+  },
+  {
+   "last_seen": "2020-05-14",
+   "qtype": "1",
+   "qname": "covid19.batstate-u.edu.ph",
+   "domain": "batstate-u.edu.ph",
+   "dname_first_ts": "2014-08-01",
+   "qname_first_ts": "2020-05-14T13:48:02.536Z",
+   "type": "name",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "heracles.batstate-u.edu.ph",
+   "first_seen": "2020-05-14"
+  },
+  {
+   "last_seen": "2020-05-14",
+   "qtype": "28",
+   "qname": "covid19.batstate-u.edu.ph",
+   "domain": "batstate-u.edu.ph",
+   "dname_first_ts": "2014-08-01",
+   "qname_first_ts": "2020-05-14T13:48:02.536Z",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "heracles.batstate-u.edu.ph",
+   "first_seen": "2020-05-14"
+  },
+  {
+   "geoip": {
+    "continent_name": "Asia",
+    "country_iso_code": "TR"
+   },
+   "last_seen": "2020-05-14",
+   "qtype": "1",
+   "qname": "covid19.atauni.edu.tr",
+   "domain": "atauni.edu.tr",
+   "dname_first_ts": "2014-07-31",
+   "qname_first_ts": "2020-05-14T08:58:38.767Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "194.27.49.103",
+   "first_seen": "2020-05-14"
+  },
+  {
+   "last_seen": "2020-05-14",
+   "qtype": "28",
+   "qname": "acoescovid.ifmt.edu.br",
+   "domain": "ifmt.edu.br",
+   "dname_first_ts": "2014-07-25",
+   "qname_first_ts": "2020-05-12T18:22:37.015Z",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "ifmt.edu.br",
+   "first_seen": "2020-05-14"
+  },
+  {
+   "geoip": {
+    "continent_name": "North America",
+    "country_iso_code": "US"
+   },
+   "last_seen": "2020-05-14",
+   "qtype": "1",
+   "qname": "covid19.lasalle.edu.sg",
+   "domain": "lasalle.edu.sg",
+   "dname_first_ts": "2014-07-29",
+   "qname_first_ts": "2020-03-03T11:27:22.424Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "216.58.223.147",
+   "first_seen": "2020-05-14"
+  },
+  {
+   "geoip": {
+    "continent_name": "North America",
+    "country_iso_code": "US"
+   },
+   "last_seen": "2020-05-14",
+   "qtype": "1",
+   "qname": "coronavirus.ufpi.edu.br",
+   "domain": "ufpi.edu.br",
+   "dname_first_ts": "2014-08-02",
+   "qname_first_ts": "2020-03-22T10:09:07.690Z",
+   "type": "a",
+   "ruleID": "b000d4226a60db4f1d5b3a24c4d84f6d",
+   "value": "216.58.192.179",
+   "first_seen": "2020-05-14"
+  },
+  {
+   "last_seen": "2020-05-14",
+   "qtype": "16",
+   "domain": "ifmt.edu.br",
+   "qname": "acoescovid.ifmt.edu.br",
+   "dname_first_ts": "2014-07-25",
+   "qname_first_ts": "2020-05-12T18:22:37.015Z",
+   "type": "txt_base64",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "RGdvb2dsZS1zaXRlLXZlcmlmaWNhdGlvbj1Jc2p3ajJPczI5NzdObHRLSExHZWlJOGhTVWxxLXVGR3hDYXhFYk4yYTNZ",
+   "first_seen": "2020-05-14"
+  },
+  {
+   "last_seen": "2020-05-14",
+   "qtype": "16",
+   "domain": "ifmt.edu.br",
+   "qname": "acoescovid.ifmt.edu.br",
+   "dname_first_ts": "2014-07-25",
+   "qname_first_ts": "2020-05-12T18:22:37.015Z",
+   "type": "txt",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "Dgoogle-site-verification=Isjwj2Os2977NltKHLGeiI8hSUlq-uFGxCaxEbN2a3Y",
+   "first_seen": "2020-05-14"
+  },
+  {
+   "last_seen": "2020-05-14",
+   "qtype": "16",
+   "domain": "ifmt.edu.br",
+   "qname": "acoescovid.ifmt.edu.br",
+   "dname_first_ts": "2014-07-25",
+   "qname_first_ts": "2020-05-12T18:22:37.015Z",
+   "type": "txt_base64",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "K01TPTIzNjY5RTA1OThEOENENzFFN0FEN0RDMTkyQzcxQzc3OUYwQjZEMTE=",
+   "first_seen": "2020-05-14"
+  },
+  {
+   "last_seen": "2020-05-14",
+   "qtype": "16",
+   "qname": "acoescovid.ifmt.edu.br",
+   "domain": "ifmt.edu.br",
+   "dname_first_ts": "2014-07-25",
+   "qname_first_ts": "2020-05-12T18:22:37.015Z",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "ifmt.edu.br",
+   "first_seen": "2020-05-14"
+  },
+  {
+   "last_seen": "2020-05-14",
+   "qtype": "16",
+   "domain": "ifmt.edu.br",
+   "qname": "acoescovid.ifmt.edu.br",
+   "dname_first_ts": "2014-07-25",
+   "qname_first_ts": "2020-05-12T18:22:37.015Z",
+   "type": "txt",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "+MS=23669E0598D8CD71E7AD7DC192C71C779F0B6D11",
+   "first_seen": "2020-05-14"
+  },
+  {
+   "last_seen": "2020-05-14",
+   "qtype": "16",
+   "qname": "acoescovid.ifmt.edu.br",
+   "domain": "ifmt.edu.br",
+   "dname_first_ts": "2014-07-25",
+   "qname_first_ts": "2020-05-12T18:22:37.015Z",
+   "type": "name",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "ifmt.edu.br",
+   "first_seen": "2020-05-14"
+  },
+  {
+   "last_seen": "2020-05-14",
+   "qtype": "16",
+   "domain": "ifmt.edu.br",
+   "qname": "acoescovid.ifmt.edu.br",
+   "dname_first_ts": "2014-07-25",
+   "qname_first_ts": "2020-05-12T18:22:37.015Z",
+   "type": "txt",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "J_globalsign-domain-verification=_PcKeufF7ScnwEnGt4PoFGFpLlNrtnlebCHViEJkun",
+   "first_seen": "2020-05-14"
+  },
+  {
+   "last_seen": "2020-05-14",
+   "qtype": "16",
+   "domain": "ifmt.edu.br",
+   "qname": "acoescovid.ifmt.edu.br",
+   "dname_first_ts": "2014-07-25",
+   "qname_first_ts": "2020-05-12T18:22:37.015Z",
+   "type": "txt_base64",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "Sl9nbG9iYWxzaWduLWRvbWFpbi12ZXJpZmljYXRpb249X1BjS2V1ZkY3U2Nud0VuR3Q0UG9GR0ZwTGxOcnRubGViQ0hWaUVKa3Vu",
+   "first_seen": "2020-05-14"
+  },
+  {
+   "last_seen": "2020-05-13",
+   "qtype": "16",
+   "qname": "covid19.beun.edu.tr",
+   "domain": "beun.edu.tr",
+   "dname_first_ts": "2014-07-25",
+   "qname_first_ts": "2020-03-22T22:26:05.169Z",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "beuweb.beun.edu.tr",
+   "first_seen": "2020-05-13"
+  },
+  {
+   "last_seen": "2020-05-13",
+   "qtype": "2",
+   "qname": "covid-19.ikcu.edu.tr",
+   "domain": "ikcu.edu.tr",
+   "dname_first_ts": "2014-08-18",
+   "qname_first_ts": "2020-05-13T03:14:46.201Z",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "www.ikcu.edu.tr",
+   "first_seen": "2020-05-13"
+  },
+  {
+   "last_seen": "2020-05-13",
+   "qtype": "16",
+   "qname": "covid-19.ikcu.edu.tr",
+   "domain": "ikcu.edu.tr",
+   "dname_first_ts": "2014-08-18",
+   "qname_first_ts": "2020-05-13T03:14:46.201Z",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "www.ikcu.edu.tr",
+   "first_seen": "2020-05-13"
+  },
+  {
+   "geoip": {
+    "continent_name": "North America",
+    "country_iso_code": "US"
+   },
+   "last_seen": "2020-05-13",
+   "qtype": "1",
+   "qname": "covid19.unifacema.edu.br",
+   "domain": "unifacema.edu.br",
+   "dname_first_ts": "2018-08-05",
+   "qname_first_ts": "2020-05-13T04:22:27.341Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "198.136.48.194",
+   "first_seen": "2020-05-13"
+  },
+  {
+   "geoip": {
+    "continent_name": "North America",
+    "country_iso_code": "US"
+   },
+   "last_seen": "2020-05-13",
+   "qtype": "1",
+   "qname": "covid19.facema.edu.br",
+   "domain": "facema.edu.br",
+   "dname_first_ts": "2014-09-02",
+   "qname_first_ts": "2020-04-21T12:56:15.648Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "198.136.48.195",
+   "first_seen": "2020-05-13"
+  },
+  {
+   "geoip": {
+    "continent_name": "Asia",
+    "country_iso_code": "TR"
+   },
+   "last_seen": "2020-05-13",
+   "qtype": "1",
+   "qname": "covid19.yyu.edu.tr",
+   "domain": "yyu.edu.tr",
+   "dname_first_ts": "2014-07-29",
+   "qname_first_ts": "2020-05-13T03:52:30.130Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "193.255.143.203",
+   "first_seen": "2020-05-13"
+  },
+  {
+   "geoip": {
+    "continent_name": "North America",
+    "country_iso_code": "US"
+   },
+   "last_seen": "2020-05-13",
+   "qtype": "1",
+   "qname": "coronavirus.upchiapas.edu.mx",
+   "domain": "upchiapas.edu.mx",
+   "dname_first_ts": "2014-09-06",
+   "qname_first_ts": "2020-05-13T03:46:06.374Z",
+   "type": "a",
+   "ruleID": "b000d4226a60db4f1d5b3a24c4d84f6d",
+   "value": "104.214.62.232",
+   "first_seen": "2020-05-13"
+  },
+  {
+   "geoip": {
+    "continent_name": "Asia",
+    "country_iso_code": "TR"
+   },
+   "last_seen": "2020-05-13",
+   "qtype": "1",
+   "qname": "covid19tedavisi.gantep.edu.tr",
+   "domain": "gantep.edu.tr",
+   "dname_first_ts": "2014-07-25",
+   "qname_first_ts": "2020-05-13T03:23:18.386Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "193.140.53.44",
+   "first_seen": "2020-05-13"
+  },
+  {
+   "last_seen": "2020-05-13",
+   "qtype": "28",
+   "qname": "covid-19.ikcu.edu.tr",
+   "domain": "ikcu.edu.tr",
+   "dname_first_ts": "2014-08-18",
+   "qname_first_ts": "2020-05-13T03:14:46.201Z",
+   "type": "name",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "www.ikcu.edu.tr",
+   "first_seen": "2020-05-13"
+  },
+  {
+   "last_seen": "2020-05-13",
+   "qtype": "28",
+   "qname": "covid-19.ikcu.edu.tr",
+   "domain": "ikcu.edu.tr",
+   "dname_first_ts": "2014-08-18",
+   "qname_first_ts": "2020-05-13T03:14:46.201Z",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "www.ikcu.edu.tr",
+   "first_seen": "2020-05-13"
+  },
+  {
+   "last_seen": "2020-05-13",
+   "qtype": "28",
+   "domain": "ikcu.edu.tr",
+   "qname": "covid-19.ikcu.edu.tr",
+   "dname_first_ts": "2014-08-18",
+   "qname_first_ts": "2020-05-13T03:14:46.201Z",
+   "type": "aaaa",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "2001:a98:c080:1::132",
+   "first_seen": "2020-05-13"
+  },
+  {
+   "geoip": {
+    "continent_name": "North America",
+    "country_iso_code": "US"
+   },
+   "last_seen": "2020-05-13",
+   "qtype": "1",
+   "qname": "covid19.lasalle.edu.sg",
+   "domain": "lasalle.edu.sg",
+   "dname_first_ts": "2014-07-29",
+   "qname_first_ts": "2020-03-03T11:27:22.424Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "172.217.1.51",
+   "first_seen": "2020-05-13"
+  },
+  {
+   "last_seen": "2020-05-13",
+   "qtype": "28",
+   "domain": "ntct.edu.tw",
+   "qname": "covid-19.dces.ntct.edu.tw",
+   "dname_first_ts": "2014-07-26",
+   "qname_first_ts": "2020-03-19T08:35:02.476Z",
+   "type": "aaaa",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "2607:f8b0:4009:803::2013",
+   "first_seen": "2020-05-13"
+  },
+  {
+   "geoip": {
+    "continent_name": "North America",
+    "country_iso_code": "US"
+   },
+   "last_seen": "2020-05-13",
+   "qtype": "1",
+   "qname": "covid-19.dces.ntct.edu.tw",
+   "domain": "ntct.edu.tw",
+   "dname_first_ts": "2014-07-26",
+   "qname_first_ts": "2020-03-19T08:35:02.476Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "172.217.4.243",
+   "first_seen": "2020-05-13"
+  },
+  {
+   "geoip": {
+    "continent_name": "North America",
+    "country_iso_code": "US"
+   },
+   "last_seen": "2020-05-12",
+   "qtype": "1",
+   "qname": "www.covid19.facema.edu.br",
+   "domain": "facema.edu.br",
+   "dname_first_ts": "2014-09-02",
+   "qname_first_ts": "2020-05-12T21:45:57.714Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "198.136.48.195",
+   "first_seen": "2020-05-12"
+  },
+  {
+   "last_seen": "2020-05-12",
+   "qtype": "1",
+   "qname": "acoescovid.ifmt.edu.br",
+   "domain": "ifmt.edu.br",
+   "dname_first_ts": "2014-07-25",
+   "qname_first_ts": "2020-05-12T18:22:37.015Z",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "ifmt.edu.br",
+   "first_seen": "2020-05-12"
+  },
+  {
+   "geoip": {
+    "continent_name": "South America",
+    "country_iso_code": "BR"
+   },
+   "last_seen": "2020-05-12",
+   "qtype": "1",
+   "qname": "acoescovid.ifmt.edu.br",
+   "domain": "ifmt.edu.br",
+   "dname_first_ts": "2014-07-25",
+   "qname_first_ts": "2020-05-12T18:22:37.015Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "200.129.244.126",
+   "first_seen": "2020-05-12"
+  },
+  {
+   "last_seen": "2020-05-12",
+   "qtype": "1",
+   "qname": "acoescovid.ifmt.edu.br",
+   "domain": "ifmt.edu.br",
+   "dname_first_ts": "2014-07-25",
+   "qname_first_ts": "2020-05-12T18:22:37.015Z",
+   "type": "name",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "ifmt.edu.br",
+   "first_seen": "2020-05-12"
+  },
+  {
+   "last_seen": "2020-05-12",
+   "qtype": "1",
+   "qname": "cursoscovid19.untdf.edu.ar",
+   "domain": "untdf.edu.ar",
+   "dname_first_ts": "2014-07-29",
+   "qname_first_ts": "2020-05-12T15:17:34.117Z",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "cursos.untdf.edu.ar",
+   "first_seen": "2020-05-12"
+  },
+  {
+   "last_seen": "2020-05-12",
+   "qtype": "1",
+   "qname": "cursoscovid19.untdf.edu.ar",
+   "domain": "untdf.edu.ar",
+   "dname_first_ts": "2014-07-29",
+   "qname_first_ts": "2020-05-12T15:17:34.117Z",
+   "type": "name",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "cursos.untdf.edu.ar",
+   "first_seen": "2020-05-12"
+  },
+  {
+   "geoip": {
+    "continent_name": "South America",
+    "country_iso_code": "AR"
+   },
+   "last_seen": "2020-05-12",
+   "qtype": "1",
+   "qname": "cursoscovid19.untdf.edu.ar",
+   "domain": "untdf.edu.ar",
+   "dname_first_ts": "2014-07-29",
+   "qname_first_ts": "2020-05-12T15:17:34.117Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "170.210.70.16",
+   "first_seen": "2020-05-12"
+  },
+  {
+   "last_seen": "2020-05-12",
+   "qtype": "28",
+   "domain": "ucasal.edu.ar",
+   "qname": "covid19.ucasal.edu.ar",
+   "dname_first_ts": "2014-07-28",
+   "qname_first_ts": "2020-05-06T19:31:48.686Z",
+   "type": "aaaa",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "2607:f8b0:4009:80d::2013",
+   "first_seen": "2020-05-12"
+  },
+  {
+   "geoip": {
+    "continent_name": "Africa",
+    "country_iso_code": "ET"
+   },
+   "last_seen": "2020-05-12",
+   "qtype": "1",
+   "qname": "covid-19.haramaya.edu.et",
+   "domain": "haramaya.edu.et",
+   "dname_first_ts": "2014-08-05",
+   "qname_first_ts": "2020-05-12T05:04:58.677Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "197.156.116.136",
+   "first_seen": "2020-05-12"
+  },
+  {
+   "geoip": {
+    "continent_name": "Europe",
+    "country_iso_code": "PL"
+   },
+   "last_seen": "2020-05-12",
+   "qtype": "1",
+   "qname": "covid.wum.edu.pl",
+   "domain": "wum.edu.pl",
+   "dname_first_ts": "2014-07-26",
+   "qname_first_ts": "2020-05-12T03:40:14.581Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "212.87.25.119",
+   "first_seen": "2020-05-12"
+  },
+  {
+   "last_seen": "2020-05-12",
+   "qtype": "28",
+   "qname": "covid19.ues.edu.sv",
+   "domain": "ues.edu.sv",
+   "dname_first_ts": "2014-07-25",
+   "qname_first_ts": "2020-05-08T20:00:28.238Z",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "wp.ues.edu.sv",
+   "first_seen": "2020-05-12"
+  },
+  {
+   "last_seen": "2020-05-12",
+   "qtype": "16",
+   "qname": "covid19.ues.edu.sv",
+   "domain": "ues.edu.sv",
+   "dname_first_ts": "2014-07-25",
+   "qname_first_ts": "2020-05-08T20:00:28.238Z",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "wp.ues.edu.sv",
+   "first_seen": "2020-05-12"
+  },
+  {
+   "geoip": {
+    "continent_name": "Asia",
+    "country_iso_code": "TR"
+   },
+   "last_seen": "2020-05-11",
+   "qtype": "1",
+   "qname": "covid19.alanya.edu.tr",
+   "domain": "alanya.edu.tr",
+   "dname_first_ts": "2016-06-11",
+   "qname_first_ts": "2020-05-11T19:43:41.291Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "161.9.201.21",
+   "first_seen": "2020-05-11"
+  },
+  {
+   "geoip": {
+    "continent_name": "North America",
+    "country_iso_code": "US"
+   },
+   "last_seen": "2020-05-11",
+   "qtype": "1",
+   "qname": "buenaspracticascovid19.udc.edu.ar",
+   "domain": "udc.edu.ar",
+   "dname_first_ts": "2014-07-28",
+   "qname_first_ts": "2020-05-11T16:31:52.699Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "208.64.64.137",
+   "first_seen": "2020-05-11"
+  },
+  {
+   "last_seen": "2020-05-11",
+   "qtype": "28",
+   "qname": "covid19.mersin.edu.tr",
+   "domain": "mersin.edu.tr",
+   "dname_first_ts": "2014-07-25",
+   "qname_first_ts": "2020-05-11T11:45:28.299Z",
+   "type": "name",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "www.mersin.edu.tr",
+   "first_seen": "2020-05-11"
+  },
+  {
+   "last_seen": "2020-05-11",
+   "qtype": "28",
+   "domain": "mersin.edu.tr",
+   "qname": "covid19.mersin.edu.tr",
+   "dname_first_ts": "2014-07-25",
+   "qname_first_ts": "2020-05-11T11:45:28.299Z",
+   "type": "aaaa",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "2001:a98:40c0::7",
+   "first_seen": "2020-05-11"
+  },
+  {
+   "last_seen": "2020-05-11",
+   "qtype": "28",
+   "qname": "covid19.mersin.edu.tr",
+   "domain": "mersin.edu.tr",
+   "dname_first_ts": "2014-07-25",
+   "qname_first_ts": "2020-05-11T11:45:28.299Z",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "www.mersin.edu.tr",
+   "first_seen": "2020-05-11"
+  },
+  {
+   "last_seen": "2020-05-11",
+   "qtype": "28",
+   "qname": "covid19.gumushane.edu.tr",
+   "domain": "gumushane.edu.tr",
+   "dname_first_ts": "2014-07-26",
+   "qname_first_ts": "2020-05-04T18:50:29.859Z",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "web.gumushane.edu.tr",
+   "first_seen": "2020-05-11"
+  },
+  {
+   "last_seen": "2020-05-11",
+   "qtype": "43",
+   "qname": "covid-19.dces.ntct.edu.tw",
+   "domain": "ntct.edu.tw",
+   "dname_first_ts": "2014-07-26",
+   "qname_first_ts": "2020-03-19T08:35:02.476Z",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "ghs.google.com",
+   "first_seen": "2020-05-11"
+  },
+  {
+   "last_seen": "2020-05-11",
+   "qtype": "28",
+   "domain": "ucasal.edu.ar",
+   "qname": "covid19.ucasal.edu.ar",
+   "dname_first_ts": "2014-07-28",
+   "qname_first_ts": "2020-05-06T19:31:48.686Z",
+   "type": "aaaa",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "2607:f8b0:4000:80c::2013",
+   "first_seen": "2020-05-11"
+  },
+  {
+   "geoip": {
+    "continent_name": "North America",
+    "country_iso_code": "US"
+   },
+   "last_seen": "2020-05-11",
+   "qtype": "1",
+   "qname": "covid19.ucasal.edu.ar",
+   "domain": "ucasal.edu.ar",
+   "dname_first_ts": "2014-07-28",
+   "qname_first_ts": "2020-05-06T19:31:48.686Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "216.58.194.115",
+   "first_seen": "2020-05-11"
+  },
+  {
+   "last_seen": "2020-05-11",
+   "qtype": "28",
+   "qname": "covid19.ucasal.edu.ar",
+   "domain": "ucasal.edu.ar",
+   "dname_first_ts": "2014-07-28",
+   "qname_first_ts": "2020-05-06T19:31:48.686Z",
+   "type": "name",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "ghs.googlehosted.com",
+   "first_seen": "2020-05-11"
+  },
+  {
+   "geoip": {
+    "continent_name": "Asia",
+    "country_iso_code": "TR"
+   },
+   "last_seen": "2020-05-11",
+   "qtype": "1",
+   "qname": "covid19.ostimteknik.edu.tr",
+   "domain": "ostimteknik.edu.tr",
+   "dname_first_ts": "2018-11-08",
+   "qname_first_ts": "2020-05-11T01:46:59.056Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "94.103.41.182",
+   "first_seen": "2020-05-11"
+  },
+  {
+   "last_seen": "2020-05-10",
+   "qtype": "15",
+   "qname": "szczepionkacovid-19.edu.pl",
+   "domain": "szczepionkacovid-19.edu.pl",
+   "dname_first_ts": "2020-04-19",
+   "qname_first_ts": "2020-04-19T20:57:07.216Z",
+   "type": "mx",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "blackhole.aftermarket.pl",
+   "first_seen": "2020-05-10"
+  },
+  {
+   "last_seen": "2020-05-10",
+   "qtype": "28",
+   "domain": "ufpi.edu.br",
+   "qname": "coronavirus.ufpi.edu.br",
+   "dname_first_ts": "2014-08-02",
+   "qname_first_ts": "2020-03-22T10:09:07.690Z",
+   "type": "aaaa",
+   "ruleID": "b000d4226a60db4f1d5b3a24c4d84f6d",
+   "value": "2607:f8b0:4000:80f::2013",
+   "first_seen": "2020-05-10"
+  },
+  {
+   "geoip": {
+    "continent_name": "South America",
+    "country_iso_code": "CO"
+   },
+   "last_seen": "2020-05-10",
+   "qtype": "1",
+   "qname": "covid-analytics-ui-euromonitor-com.ezproxy.javeriana.edu.co",
+   "domain": "javeriana.edu.co",
+   "dname_first_ts": "2014-07-25",
+   "qname_first_ts": "2020-05-10T11:35:22.184Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "200.3.152.96",
+   "first_seen": "2020-05-10"
+  },
+  {
+   "geoip": {
+    "continent_name": "North America",
+    "country_iso_code": "US"
+   },
+   "last_seen": "2020-05-09",
+   "qtype": "1",
+   "qname": "covid19dashboard.habib.edu.pk",
+   "domain": "habib.edu.pk",
+   "dname_first_ts": "2014-08-05",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "50.116.83.161",
+   "first_seen": "2020-05-09"
+  },
+  {
+   "last_seen": "2020-05-09",
+   "qtype": "28",
+   "domain": "nuk.edu.tw",
+   "qname": "covid-19.nuk.edu.tw",
+   "dname_first_ts": "2014-07-28",
+   "type": "aaaa",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "2001:288:8003:234::158",
+   "first_seen": "2020-05-09"
+  },
+  {
+   "last_seen": "2020-05-09",
+   "qtype": "28",
+   "qname": "covid-19.nuk.edu.tw",
+   "domain": "nuk.edu.tw",
+   "dname_first_ts": "2014-07-28",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "rpage.nuk.edu.tw",
+   "first_seen": "2020-05-09"
+  },
+  {
+   "last_seen": "2020-05-09",
+   "qtype": "28",
+   "qname": "covid-19.nuk.edu.tw",
+   "domain": "nuk.edu.tw",
+   "dname_first_ts": "2014-07-28",
+   "type": "name",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "rpage.nuk.edu.tw",
+   "first_seen": "2020-05-09"
+  },
+  {
+   "geoip": {
+    "continent_name": "Asia",
+    "country_iso_code": "TR"
+   },
+   "last_seen": "2020-05-09",
+   "qtype": "1",
+   "qname": "covid19.ibg.edu.tr",
+   "domain": "ibg.edu.tr",
+   "dname_first_ts": "2018-04-10",
+   "qname_first_ts": "2020-05-09T12:47:45.814Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "212.175.199.164",
+   "first_seen": "2020-05-09"
+  },
+  {
+   "geoip": {
+    "continent_name": "Asia",
+    "country_iso_code": "TR"
+   },
+   "last_seen": "2020-05-09",
+   "qtype": "1",
+   "qname": "asucovid19.aksaray.edu.tr",
+   "domain": "aksaray.edu.tr",
+   "dname_first_ts": "2014-07-31",
+   "qname_first_ts": "2020-05-09T02:48:39.561Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "193.255.218.75",
+   "first_seen": "2020-05-09"
+  },
+  {
+   "last_seen": "2020-05-08",
+   "qtype": "0",
+   "qname": "covid19masksareus.edu.ge",
+   "domain": "covid19masksareus.edu.ge",
+   "dname_first_ts": "2020-05-08",
+   "qname_first_ts": "2020-05-08T21:15:40.020Z",
+   "type": "domain",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "covid19masksareus.edu.ge",
+   "first_seen": "2020-05-08"
+  },
+  {
+   "last_seen": "2020-05-08",
+   "qtype": "1",
+   "qname": "covid19.ues.edu.sv",
+   "domain": "ues.edu.sv",
+   "dname_first_ts": "2014-07-25",
+   "qname_first_ts": "2020-05-08T20:00:28.238Z",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "wp.ues.edu.sv",
+   "first_seen": "2020-05-08"
+  },
+  {
+   "last_seen": "2020-05-08",
+   "qtype": "1",
+   "qname": "covid19.ues.edu.sv",
+   "domain": "ues.edu.sv",
+   "dname_first_ts": "2014-07-25",
+   "qname_first_ts": "2020-05-08T20:00:28.238Z",
+   "type": "name",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "wp.ues.edu.sv",
+   "first_seen": "2020-05-08"
+  },
+  {
+   "geoip": {
+    "continent_name": "North America",
+    "country_iso_code": "SV"
+   },
+   "last_seen": "2020-05-08",
+   "qtype": "1",
+   "qname": "covid19.ues.edu.sv",
+   "domain": "ues.edu.sv",
+   "dname_first_ts": "2014-07-25",
+   "qname_first_ts": "2020-05-08T20:00:28.238Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "168.232.49.225",
+   "first_seen": "2020-05-08"
+  },
+  {
+   "last_seen": "2020-05-08",
+   "qtype": "28",
+   "domain": "cihanuniversity.edu.iq",
+   "qname": "www.coronavirus.cihanuniversity.edu.iq",
+   "dname_first_ts": "2014-09-25",
+   "qname_first_ts": "2020-03-28T15:06:42.017Z",
+   "type": "aaaa",
+   "ruleID": "b000d4226a60db4f1d5b3a24c4d84f6d",
+   "value": "2607:f8b0:400f:806::2013",
+   "first_seen": "2020-05-08"
+  },
+  {
+   "geoip": {
+    "continent_name": "North America",
+    "country_iso_code": "US"
+   },
+   "last_seen": "2020-05-08",
+   "qtype": "1",
+   "qname": "www.coronavirus.cihanuniversity.edu.iq",
+   "domain": "cihanuniversity.edu.iq",
+   "dname_first_ts": "2014-09-25",
+   "qname_first_ts": "2020-03-28T15:06:42.017Z",
+   "type": "a",
+   "ruleID": "b000d4226a60db4f1d5b3a24c4d84f6d",
+   "value": "172.217.1.211",
+   "first_seen": "2020-05-08"
+  },
+  {
+   "geoip": {
+    "continent_name": "Asia",
+    "country_iso_code": "SG"
+   },
+   "last_seen": "2020-05-08",
+   "qtype": "1",
+   "qname": "trackcovid.uls.edu.ph",
+   "domain": "uls.edu.ph",
+   "dname_first_ts": "2020-01-23",
+   "qname_first_ts": "2020-05-08T14:59:31.799Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "131.153.51.122",
+   "first_seen": "2020-05-08"
+  },
+  {
+   "geoip": {
+    "continent_name": "Asia",
+    "country_iso_code": "IN"
+   },
+   "last_seen": "2020-05-08",
+   "qtype": "1",
+   "qname": "covidnlp.tavlab.iiitd.edu.in",
+   "domain": "iiitd.edu.in",
+   "dname_first_ts": "2014-07-31",
+   "qname_first_ts": "2020-05-08T12:41:56.393Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "103.25.231.5",
+   "first_seen": "2020-05-08"
+  },
+  {
+   "last_seen": "2020-05-08",
+   "qtype": "28",
+   "qname": "covid19.hitit.edu.tr",
+   "domain": "hitit.edu.tr",
+   "dname_first_ts": "2014-07-29",
+   "qname_first_ts": "2020-05-08T02:39:04.298Z",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "fakultesrv.hitit.edu.tr",
+   "first_seen": "2020-05-08"
+  },
+  {
+   "geoip": {
+    "continent_name": "Asia",
+    "country_iso_code": "TR"
+   },
+   "last_seen": "2020-05-07",
+   "qtype": "1",
+   "qname": "covid19.yalova.edu.tr",
+   "domain": "yalova.edu.tr",
+   "dname_first_ts": "2014-07-26",
+   "qname_first_ts": "2020-05-07T21:20:59.410Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "193.255.61.32",
+   "first_seen": "2020-05-07"
+  },
+  {
+   "geoip": {
+    "continent_name": "Europe"
+   },
+   "last_seen": "2020-05-07",
+   "qtype": "1",
+   "qname": "covid19.hku.edu.tr",
+   "domain": "hku.edu.tr",
+   "dname_first_ts": "2014-07-25",
+   "qname_first_ts": "2020-05-07T15:53:10.529Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "35.195.91.78",
+   "first_seen": "2020-05-07"
+  },
+  {
+   "geoip": {
+    "continent_name": "Asia",
+    "country_iso_code": "TR"
+   },
+   "last_seen": "2020-05-07",
+   "qtype": "1",
+   "qname": "covid19.ebyu.edu.tr",
+   "domain": "ebyu.edu.tr",
+   "dname_first_ts": "2018-08-02",
+   "qname_first_ts": "2020-05-07T15:22:05.125Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "79.123.136.74",
+   "first_seen": "2020-05-07"
+  },
+  {
+   "last_seen": "2020-05-07",
+   "qtype": "28",
+   "domain": "ebyu.edu.tr",
+   "qname": "covid19.ebyu.edu.tr",
+   "dname_first_ts": "2018-08-02",
+   "qname_first_ts": "2020-05-07T15:22:05.125Z",
+   "type": "aaaa",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "2001:a98:8b0:2::74",
+   "first_seen": "2020-05-07"
+  },
+  {
+   "geoip": {
+    "continent_name": "Asia",
+    "country_iso_code": "TR"
+   },
+   "last_seen": "2020-05-07",
+   "qtype": "1",
+   "qname": "covid19.gantep.edu.tr",
+   "domain": "gantep.edu.tr",
+   "dname_first_ts": "2014-07-25",
+   "qname_first_ts": "2020-05-07T14:15:20.398Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "193.140.136.16",
+   "first_seen": "2020-05-07"
+  },
+  {
+   "last_seen": "2020-05-07",
+   "qtype": "28",
+   "qname": "covid19.btu.edu.tr",
+   "domain": "btu.edu.tr",
+   "dname_first_ts": "2014-07-26",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "btu.edu.tr",
+   "first_seen": "2020-05-07"
+  },
+  {
+   "geoip": {
+    "continent_name": "North America",
+    "country_iso_code": "US"
+   },
+   "last_seen": "2020-05-07",
+   "qtype": "1",
+   "qname": "fiscalcovid.lsi.ufcg.edu.br",
+   "domain": "ufcg.edu.br",
+   "dname_first_ts": "2014-07-25",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "157.245.121.223",
+   "first_seen": "2020-05-07"
+  },
+  {
+   "geoip": {
+    "continent_name": "Asia",
+    "country_iso_code": "TR"
+   },
+   "last_seen": "2020-05-07",
+   "qtype": "1",
+   "qname": "covid19.adiyaman.edu.tr",
+   "domain": "adiyaman.edu.tr",
+   "dname_first_ts": "2014-07-28",
+   "qname_first_ts": "2020-05-07T03:42:28.857Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "193.255.109.72",
+   "first_seen": "2020-05-07"
+  },
+  {
+   "last_seen": "2020-05-06",
+   "qtype": "28",
+   "qname": "covid19.ucasal.edu.ar",
+   "domain": "ucasal.edu.ar",
+   "dname_first_ts": "2014-07-28",
+   "qname_first_ts": "2020-05-06T19:31:48.686Z",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "ghs.googlehosted.com",
+   "first_seen": "2020-05-06"
+  },
+  {
+   "last_seen": "2020-05-06",
+   "qtype": "1",
+   "qname": "covid19.ucasal.edu.ar",
+   "domain": "ucasal.edu.ar",
+   "dname_first_ts": "2014-07-28",
+   "qname_first_ts": "2020-05-06T19:31:48.686Z",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "ghs.googlehosted.com",
+   "first_seen": "2020-05-06"
+  },
+  {
+   "geoip": {
+    "continent_name": "North America",
+    "country_iso_code": "US"
+   },
+   "last_seen": "2020-05-06",
+   "qtype": "1",
+   "qname": "covid19.ucasal.edu.ar",
+   "domain": "ucasal.edu.ar",
+   "dname_first_ts": "2014-07-28",
+   "qname_first_ts": "2020-05-06T19:31:48.686Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "216.58.194.83",
+   "first_seen": "2020-05-06"
+  },
+  {
+   "last_seen": "2020-05-06",
+   "qtype": "1",
+   "qname": "covid19.ucasal.edu.ar",
+   "domain": "ucasal.edu.ar",
+   "dname_first_ts": "2014-07-28",
+   "qname_first_ts": "2020-05-06T19:31:48.686Z",
+   "type": "name",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "ghs.googlehosted.com",
+   "first_seen": "2020-05-06"
+  },
+  {
+   "last_seen": "2020-05-06",
+   "qtype": "28",
+   "qname": "covid.uo.edu.cu",
+   "domain": "uo.edu.cu",
+   "dname_first_ts": "2014-07-25",
+   "qname_first_ts": "2020-05-04T18:30:24.124Z",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "proxy-inv-inet.uo.edu.cu",
+   "first_seen": "2020-05-06"
+  },
+  {
+   "geoip": {
+    "continent_name": "Asia",
+    "country_iso_code": "TR"
+   },
+   "last_seen": "2020-05-06",
+   "qtype": "1",
+   "qname": "covid19.kayseri.edu.tr",
+   "domain": "kayseri.edu.tr",
+   "dname_first_ts": "2018-06-22",
+   "qname_first_ts": "2020-05-06T05:44:39.010Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "193.255.89.80",
+   "first_seen": "2020-05-06"
+  },
+  {
+   "last_seen": "2020-05-06",
+   "qtype": "1",
+   "qname": "covid19.kayseri.edu.tr",
+   "domain": "kayseri.edu.tr",
+   "dname_first_ts": "2018-06-22",
+   "qname_first_ts": "2020-05-06T05:44:39.010Z",
+   "type": "name",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "www.kayseri.edu.tr",
+   "first_seen": "2020-05-06"
+  },
+  {
+   "last_seen": "2020-05-06",
+   "qtype": "1",
+   "qname": "covid19.kayseri.edu.tr",
+   "domain": "kayseri.edu.tr",
+   "dname_first_ts": "2018-06-22",
+   "qname_first_ts": "2020-05-06T05:44:39.010Z",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "www.kayseri.edu.tr",
+   "first_seen": "2020-05-06"
+  },
+  {
+   "geoip": {
+    "continent_name": "Asia",
+    "country_iso_code": "TR"
+   },
+   "last_seen": "2020-05-06",
+   "qtype": "1",
+   "qname": "covid19.kocaeli.edu.tr",
+   "domain": "kocaeli.edu.tr",
+   "dname_first_ts": "2014-07-31",
+   "qname_first_ts": "2020-05-06T03:07:51.904Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "194.27.72.72",
+   "first_seen": "2020-05-06"
+  },
+  {
+   "geoip": {
+    "continent_name": "Asia",
+    "country_iso_code": "TR"
+   },
+   "last_seen": "2020-05-06",
+   "qtype": "1",
+   "qname": "covid-19donemi.esenyurt.edu.tr",
+   "domain": "esenyurt.edu.tr",
+   "dname_first_ts": "2014-07-30",
+   "qname_first_ts": "2020-05-06T02:25:39.756Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "212.174.76.70",
+   "first_seen": "2020-05-06"
+  },
+  {
+   "geoip": {
+    "continent_name": "North America",
+    "country_iso_code": "MX"
+   },
+   "last_seen": "2020-05-06",
+   "qtype": "1",
+   "qname": "covid19.uan.edu.mx",
+   "domain": "uan.edu.mx",
+   "dname_first_ts": "2014-07-29",
+   "qname_first_ts": "2020-05-06T01:16:48.595Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "192.100.162.93",
+   "first_seen": "2020-05-06"
+  },
+  {
+   "last_seen": "2020-05-05",
+   "qtype": "0",
+   "qname": "covidsignal.edu.ge",
+   "domain": "covidsignal.edu.ge",
+   "dname_first_ts": "2020-05-05",
+   "qname_first_ts": "2020-05-05T19:41:01.500Z",
+   "type": "domain",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "covidsignal.edu.ge",
+   "first_seen": "2020-05-05"
+  },
+  {
+   "last_seen": "2020-05-05",
+   "qtype": "0",
+   "qname": "covid19keepsafe.edu.ge",
+   "domain": "covid19keepsafe.edu.ge",
+   "dname_first_ts": "2020-05-05",
+   "qname_first_ts": "2020-05-05T19:11:34.704Z",
+   "type": "domain",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "covid19keepsafe.edu.ge",
+   "first_seen": "2020-05-05"
+  },
+  {
+   "last_seen": "2020-05-05",
+   "qtype": "0",
+   "qname": "covid-19contained.edu.ge",
+   "domain": "covid-19contained.edu.ge",
+   "dname_first_ts": "2020-05-05",
+   "qname_first_ts": "2020-05-05T18:34:41.853Z",
+   "type": "domain",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "covid-19contained.edu.ge",
+   "first_seen": "2020-05-05"
+  },
+  {
+   "last_seen": "2020-05-05",
+   "qtype": "0",
+   "qname": "covid19kitsonline.edu.ge",
+   "domain": "covid19kitsonline.edu.ge",
+   "dname_first_ts": "2020-05-05",
+   "qname_first_ts": "2020-05-05T18:34:39.445Z",
+   "type": "domain",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "covid19kitsonline.edu.ge",
+   "first_seen": "2020-05-05"
+  },
+  {
+   "last_seen": "2020-05-05",
+   "qtype": "0",
+   "qname": "coronavirusprotective.edu.ge",
+   "domain": "coronavirusprotective.edu.ge",
+   "dname_first_ts": "2020-05-05",
+   "qname_first_ts": "2020-05-05T18:21:00.002Z",
+   "type": "domain",
+   "ruleID": "b000d4226a60db4f1d5b3a24c4d84f6d",
+   "value": "coronavirusprotective.edu.ge",
+   "first_seen": "2020-05-05"
+  },
+  {
+   "geoip": {
+    "continent_name": "Asia",
+    "country_iso_code": "TR"
+   },
+   "last_seen": "2020-05-05",
+   "qtype": "1",
+   "qname": "covid19.idu.edu.tr",
+   "domain": "idu.edu.tr",
+   "dname_first_ts": "2017-04-19",
+   "qname_first_ts": "2020-05-05T16:32:09.042Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "161.9.203.100",
+   "first_seen": "2020-05-05"
+  },
+  {
+   "geoip": {
+    "continent_name": "Asia",
+    "country_iso_code": "TR"
+   },
+   "last_seen": "2020-05-05",
+   "qtype": "1",
+   "qname": "covid19.ksu.edu.tr",
+   "domain": "ksu.edu.tr",
+   "dname_first_ts": "2014-07-25",
+   "qname_first_ts": "2020-05-05T15:54:20.091Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "193.255.93.96",
+   "first_seen": "2020-05-05"
+  },
+  {
+   "last_seen": "2020-05-05",
+   "qtype": "1",
+   "qname": "covid19.gumushane.edu.tr",
+   "domain": "gumushane.edu.tr",
+   "dname_first_ts": "2014-07-26",
+   "qname_first_ts": "2020-05-04T18:50:29.859Z",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "web.gumushane.edu.tr",
+   "first_seen": "2020-05-05"
+  },
+  {
+   "geoip": {
+    "continent_name": "Asia",
+    "country_iso_code": "TR"
+   },
+   "last_seen": "2020-05-05",
+   "qtype": "1",
+   "qname": "covid19.gumushane.edu.tr",
+   "domain": "gumushane.edu.tr",
+   "dname_first_ts": "2014-07-26",
+   "qname_first_ts": "2020-05-04T18:50:29.859Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "79.123.244.2",
+   "first_seen": "2020-05-05"
+  },
+  {
+   "last_seen": "2020-05-05",
+   "qtype": "1",
+   "qname": "covid19.gumushane.edu.tr",
+   "domain": "gumushane.edu.tr",
+   "dname_first_ts": "2014-07-26",
+   "qname_first_ts": "2020-05-04T18:50:29.859Z",
+   "type": "name",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "web.gumushane.edu.tr",
+   "first_seen": "2020-05-05"
+  },
+  {
+   "last_seen": "2020-05-05",
+   "qtype": "16",
+   "qname": "coronavirus.upr.edu.cu",
+   "domain": "upr.edu.cu",
+   "dname_first_ts": "2014-07-26",
+   "qname_first_ts": "2020-04-15T16:42:57.054Z",
+   "type": "cname",
+   "ruleID": "b000d4226a60db4f1d5b3a24c4d84f6d",
+   "value": "reverse-proxy0.upr.edu.cu",
+   "first_seen": "2020-05-05"
+  },
+  {
+   "last_seen": "2020-05-04",
+   "qtype": "28",
+   "qname": "covid19.riogrande.ifrs.edu.br",
+   "domain": "ifrs.edu.br",
+   "dname_first_ts": "2014-07-26",
+   "qname_first_ts": "2020-04-02T21:34:11.421Z",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "geogandra.riogrande.ifrs.edu.br",
+   "first_seen": "2020-05-04"
+  },
+  {
+   "last_seen": "2020-05-04",
+   "qtype": "2",
+   "qname": "covid19.gumushane.edu.tr",
+   "domain": "gumushane.edu.tr",
+   "dname_first_ts": "2014-07-26",
+   "qname_first_ts": "2020-05-04T18:50:29.859Z",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "web.gumushane.edu.tr",
+   "first_seen": "2020-05-04"
+  },
+  {
+   "last_seen": "2020-05-04",
+   "qtype": "1",
+   "qname": "covid.uo.edu.cu",
+   "domain": "uo.edu.cu",
+   "dname_first_ts": "2014-07-25",
+   "qname_first_ts": "2020-05-04T18:30:24.124Z",
+   "type": "name",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "proxy-inv-inet.uo.edu.cu",
+   "first_seen": "2020-05-04"
+  },
+  {
+   "geoip": {
+    "continent_name": "North America",
+    "country_iso_code": "CU"
+   },
+   "last_seen": "2020-05-04",
+   "qtype": "1",
+   "qname": "covid.uo.edu.cu",
+   "domain": "uo.edu.cu",
+   "dname_first_ts": "2014-07-25",
+   "qname_first_ts": "2020-05-04T18:30:24.124Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "200.14.54.189",
+   "first_seen": "2020-05-04"
+  },
+  {
+   "last_seen": "2020-05-04",
+   "qtype": "1",
+   "qname": "covid.uo.edu.cu",
+   "domain": "uo.edu.cu",
+   "dname_first_ts": "2014-07-25",
+   "qname_first_ts": "2020-05-04T18:30:24.124Z",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "proxy-inv-inet.uo.edu.cu",
+   "first_seen": "2020-05-04"
+  },
+  {
+   "geoip": {
+    "continent_name": "Asia",
+    "country_iso_code": "VN"
+   },
+   "last_seen": "2020-05-04",
+   "qtype": "1",
+   "qname": "covid9.huemed-univ.edu.vn",
+   "domain": "huemed-univ.edu.vn",
+   "dname_first_ts": "2014-08-08",
+   "qname_first_ts": "2020-05-03T07:39:30.257Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "112.78.2.59",
+   "first_seen": "2020-05-04"
+  },
+  {
+   "last_seen": "2020-05-04",
+   "qtype": "1",
+   "qname": "covid9.huemed-univ.edu.vn",
+   "domain": "huemed-univ.edu.vn",
+   "dname_first_ts": "2014-08-08",
+   "qname_first_ts": "2020-05-03T07:39:30.257Z",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "huemed-univ.edu.vn",
+   "first_seen": "2020-05-04"
+  },
+  {
+   "last_seen": "2020-05-04",
+   "qtype": "1",
+   "qname": "covid9.huemed-univ.edu.vn",
+   "domain": "huemed-univ.edu.vn",
+   "dname_first_ts": "2014-08-08",
+   "qname_first_ts": "2020-05-03T07:39:30.257Z",
+   "type": "name",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "huemed-univ.edu.vn",
+   "first_seen": "2020-05-04"
+  },
+  {
+   "last_seen": "2020-05-04",
+   "qtype": "28",
+   "qname": "covid-19-stf.gumed.edu.pl",
+   "domain": "gumed.edu.pl",
+   "dname_first_ts": "2014-07-26",
+   "qname_first_ts": "2020-04-08T09:31:26.587Z",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "paguma.gumed.edu.pl",
+   "first_seen": "2020-05-04"
+  },
+  {
+   "last_seen": "2020-05-04",
+   "qtype": "28",
+   "qname": "covid-19-stf.gumed.edu.pl",
+   "domain": "gumed.edu.pl",
+   "dname_first_ts": "2014-07-26",
+   "qname_first_ts": "2020-04-08T09:31:26.587Z",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "cms.gumed.edu.pl",
+   "first_seen": "2020-05-04"
+  },
+  {
+   "last_seen": "2020-05-04",
+   "qtype": "28",
+   "qname": "covid-19-stf.gumed.edu.pl",
+   "domain": "gumed.edu.pl",
+   "dname_first_ts": "2014-07-26",
+   "qname_first_ts": "2020-04-08T09:31:26.587Z",
+   "type": "name",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "cms.gumed.edu.pl",
+   "first_seen": "2020-05-04"
+  },
+  {
+   "geoip": {
+    "continent_name": "North America",
+    "country_iso_code": "US"
+   },
+   "last_seen": "2020-05-03",
+   "qtype": "1",
+   "qname": "covid19.ms.hwai.edu.tw",
+   "domain": "hwai.edu.tw",
+   "dname_first_ts": "2014-07-28",
+   "qname_first_ts": "2020-02-23T23:43:37.231Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "216.58.193.147",
+   "first_seen": "2020-05-03"
+  },
+  {
+   "geoip": {
+    "continent_name": "Asia",
+    "country_iso_code": "TR"
+   },
+   "last_seen": "2020-05-03",
+   "qtype": "1",
+   "qname": "covid19tedavisi.lxc.gantep.edu.tr",
+   "domain": "gantep.edu.tr",
+   "dname_first_ts": "2014-07-25",
+   "qname_first_ts": "2020-05-03T13:10:59.157Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "193.140.53.44",
+   "first_seen": "2020-05-03"
+  },
+  {
+   "last_seen": "2020-05-03",
+   "qtype": "28",
+   "qname": "covid9.huemed-univ.edu.vn",
+   "domain": "huemed-univ.edu.vn",
+   "dname_first_ts": "2014-08-08",
+   "qname_first_ts": "2020-05-03T07:39:30.257Z",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "huemed-univ.edu.vn",
+   "first_seen": "2020-05-03"
+  },
+  {
+   "last_seen": "2020-05-03",
+   "qtype": "2",
+   "qname": "covid9.huemed-univ.edu.vn",
+   "domain": "huemed-univ.edu.vn",
+   "dname_first_ts": "2014-08-08",
+   "qname_first_ts": "2020-05-03T07:39:30.257Z",
+   "type": "ns",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "ns2.matbao.vn",
+   "first_seen": "2020-05-03"
+  },
+  {
+   "last_seen": "2020-05-03",
+   "qtype": "2",
+   "qname": "covid9.huemed-univ.edu.vn",
+   "domain": "huemed-univ.edu.vn",
+   "dname_first_ts": "2014-08-08",
+   "qname_first_ts": "2020-05-03T07:39:30.257Z",
+   "type": "name",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "huemed-univ.edu.vn",
+   "first_seen": "2020-05-03"
+  },
+  {
+   "last_seen": "2020-05-03",
+   "qtype": "2",
+   "qname": "covid9.huemed-univ.edu.vn",
+   "domain": "huemed-univ.edu.vn",
+   "dname_first_ts": "2014-08-08",
+   "qname_first_ts": "2020-05-03T07:39:30.257Z",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "huemed-univ.edu.vn",
+   "first_seen": "2020-05-03"
+  },
+  {
+   "last_seen": "2020-05-03",
+   "qtype": "2",
+   "qname": "covid9.huemed-univ.edu.vn",
+   "domain": "huemed-univ.edu.vn",
+   "dname_first_ts": "2014-08-08",
+   "qname_first_ts": "2020-05-03T07:39:30.257Z",
+   "type": "ns",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "ns1.matbao.vn",
+   "first_seen": "2020-05-03"
+  },
+  {
+   "last_seen": "2020-05-03",
+   "qtype": "2",
+   "qname": "covid9.huemed-univ.edu.vn",
+   "domain": "huemed-univ.edu.vn",
+   "dname_first_ts": "2014-08-08",
+   "qname_first_ts": "2020-05-03T07:39:30.257Z",
+   "type": "ns",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "ns-bak.matbao.com",
+   "first_seen": "2020-05-03"
+  },
+  {
+   "last_seen": "2020-05-03",
+   "qtype": "15",
+   "qname": "covid19.mimuw.edu.pl",
+   "domain": "mimuw.edu.pl",
+   "dname_first_ts": "2014-07-30",
+   "qname_first_ts": "2020-04-28T14:33:41.001Z",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "duch.mimuw.edu.pl",
+   "first_seen": "2020-05-03"
+  },
+  {
+   "last_seen": "2020-05-03",
+   "qtype": "255",
+   "qname": "covid19.mimuw.edu.pl",
+   "domain": "mimuw.edu.pl",
+   "dname_first_ts": "2014-07-30",
+   "qname_first_ts": "2020-04-28T14:33:41.001Z",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "duch.mimuw.edu.pl",
+   "first_seen": "2020-05-03"
+  },
+  {
+   "last_seen": "2020-05-01",
+   "qtype": "16",
+   "qname": "revistaecovida.upr.edu.cu",
+   "domain": "upr.edu.cu",
+   "dname_first_ts": "2014-07-26",
+   "qname_first_ts": "2018-03-31T18:22:09.000Z",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "reverse-proxy0.upr.edu.cu",
+   "first_seen": "2020-05-01"
+  },
+  {
+   "geoip": {
+    "continent_name": "Africa",
+    "country_iso_code": "ET"
+   },
+   "last_seen": "2020-05-01",
+   "qtype": "1",
+   "qname": "covid19.ju.edu.et",
+   "domain": "ju.edu.et",
+   "dname_first_ts": "2014-08-02",
+   "qname_first_ts": "2020-05-01T11:59:50.792Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "213.55.102.130",
+   "first_seen": "2020-05-01"
+  },
+  {
+   "geoip": {
+    "continent_name": "Asia",
+    "country_iso_code": "TR"
+   },
+   "last_seen": "2020-05-01",
+   "qtype": "1",
+   "qname": "covid19.kastamonu.edu.tr",
+   "domain": "kastamonu.edu.tr",
+   "dname_first_ts": "2014-08-01",
+   "qname_first_ts": "2020-05-01T04:00:15.399Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "79.123.171.249",
+   "first_seen": "2020-05-01"
+  },
+  {
+   "last_seen": "2020-05-01",
+   "qtype": "28",
+   "qname": "covid19map.icm.edu.pl",
+   "domain": "icm.edu.pl",
+   "dname_first_ts": "2014-07-25",
+   "qname_first_ts": "2020-04-30T04:07:10.724Z",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "www6.cis.icm.edu.pl",
+   "first_seen": "2020-05-01"
+  },
+  {
+   "last_seen": "2020-05-01",
+   "qtype": "2",
+   "qname": "covid19map.icm.edu.pl",
+   "domain": "icm.edu.pl",
+   "dname_first_ts": "2014-07-25",
+   "qname_first_ts": "2020-04-30T04:07:10.724Z",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "www6.cis.icm.edu.pl",
+   "first_seen": "2020-05-01"
+  },
+  {
+   "geoip": {
+    "continent_name": "North America",
+    "country_iso_code": "US"
+   },
+   "last_seen": "2020-04-30",
+   "qtype": "1",
+   "qname": "coronavirus.ufpi.edu.br",
+   "domain": "ufpi.edu.br",
+   "dname_first_ts": "2014-08-02",
+   "qname_first_ts": "2020-03-22T10:09:07.690Z",
+   "type": "a",
+   "ruleID": "b000d4226a60db4f1d5b3a24c4d84f6d",
+   "value": "216.58.194.83",
+   "first_seen": "2020-04-30"
+  },
+  {
+   "geoip": {
+    "continent_name": "Asia",
+    "country_iso_code": "TR"
+   },
+   "last_seen": "2020-04-30",
+   "qtype": "1",
+   "qname": "covid-19.arel.edu.tr",
+   "domain": "arel.edu.tr",
+   "dname_first_ts": "2014-07-25",
+   "qname_first_ts": "2020-04-30T17:42:51.244Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "193.255.56.108",
+   "first_seen": "2020-04-30"
+  },
+  {
+   "geoip": {
+    "continent_name": "Asia",
+    "country_iso_code": "PH"
+   },
+   "last_seen": "2020-04-30",
+   "qtype": "1",
+   "qname": "http://admin.covid-dev.host.adzu.edu.ph",
+   "domain": "adzu.edu.ph",
+   "dname_first_ts": "2014-08-13",
+   "qname_first_ts": null,
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "210.213.146.169",
+   "first_seen": "2020-04-30"
+  },
+  {
+   "geoip": {
+    "continent_name": "North America",
+    "country_iso_code": "US"
+   },
+   "last_seen": "2020-04-30",
+   "qtype": "1",
+   "qname": "covid19.ssct.edu.ph",
+   "domain": "ssct.edu.ph",
+   "dname_first_ts": "2014-08-03",
+   "qname_first_ts": "2020-04-20T07:53:12.757Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "34.68.244.233",
+   "first_seen": "2020-04-30"
+  },
+  {
+   "last_seen": "2020-04-30",
+   "qtype": "16",
+   "qname": "covid19.ahievran.edu.tr",
+   "domain": "ahievran.edu.tr",
+   "dname_first_ts": "2014-07-26",
+   "qname_first_ts": "2020-04-08T19:03:18.857Z",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "aspx.ahievran.edu.tr",
+   "first_seen": "2020-04-30"
+  },
+  {
+   "last_seen": "2020-04-30",
+   "qtype": "28",
+   "qname": "covid19.ahievran.edu.tr",
+   "domain": "ahievran.edu.tr",
+   "dname_first_ts": "2014-07-26",
+   "qname_first_ts": "2020-04-08T19:03:18.857Z",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "aspx.ahievran.edu.tr",
+   "first_seen": "2020-04-30"
+  },
+  {
+   "last_seen": "2020-04-30",
+   "qtype": "28",
+   "qname": "covid19.ahievran.edu.tr",
+   "domain": "ahievran.edu.tr",
+   "dname_first_ts": "2014-07-26",
+   "qname_first_ts": "2020-04-08T19:03:18.857Z",
+   "type": "name",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "aspx.ahievran.edu.tr",
+   "first_seen": "2020-04-30"
+  },
+  {
+   "last_seen": "2020-04-30",
+   "qtype": "28",
+   "domain": "ahievran.edu.tr",
+   "qname": "covid19.ahievran.edu.tr",
+   "dname_first_ts": "2014-07-26",
+   "qname_first_ts": "2020-04-08T19:03:18.857Z",
+   "type": "aaaa",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "2001:a98:2b0::14",
+   "first_seen": "2020-04-30"
+  },
+  {
+   "last_seen": "2020-04-30",
+   "qtype": "1",
+   "qname": "covid19map.icm.edu.pl",
+   "domain": "icm.edu.pl",
+   "dname_first_ts": "2014-07-25",
+   "qname_first_ts": "2020-04-30T04:07:10.724Z",
+   "type": "name",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "www6.cis.icm.edu.pl",
+   "first_seen": "2020-04-30"
+  },
+  {
+   "last_seen": "2020-04-30",
+   "qtype": "1",
+   "qname": "covid19map.icm.edu.pl",
+   "domain": "icm.edu.pl",
+   "dname_first_ts": "2014-07-25",
+   "qname_first_ts": "2020-04-30T04:07:10.724Z",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "www6.cis.icm.edu.pl",
+   "first_seen": "2020-04-30"
+  },
+  {
+   "geoip": {
+    "continent_name": "Europe",
+    "country_iso_code": "PL"
+   },
+   "last_seen": "2020-04-30",
+   "qtype": "1",
+   "qname": "covid19map.icm.edu.pl",
+   "domain": "icm.edu.pl",
+   "dname_first_ts": "2014-07-25",
+   "qname_first_ts": "2020-04-30T04:07:10.724Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "213.135.59.42",
+   "first_seen": "2020-04-30"
+  },
+  {
+   "last_seen": "2020-04-29",
+   "qtype": "16",
+   "qname": "covid19.beu.edu.tr",
+   "domain": "beu.edu.tr",
+   "dname_first_ts": "2014-07-29",
+   "qname_first_ts": "2020-04-29T20:41:26.727Z",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "www.beu.edu.tr",
+   "first_seen": "2020-04-29"
+  },
+  {
+   "geoip": {
+    "continent_name": "Asia",
+    "country_iso_code": "TR"
+   },
+   "last_seen": "2020-04-29",
+   "qtype": "1",
+   "qname": "covid19.cu.edu.tr",
+   "domain": "cu.edu.tr",
+   "dname_first_ts": "2014-07-30",
+   "qname_first_ts": "2020-04-29T19:46:18.516Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "193.140.54.17",
+   "first_seen": "2020-04-29"
+  },
+  {
+   "last_seen": "2020-04-28",
+   "qtype": "1",
+   "qname": "coronavirus.ufabc.edu.br",
+   "domain": "ufabc.edu.br",
+   "dname_first_ts": "2014-07-25",
+   "qname_first_ts": "2020-04-25T02:43:12.865Z",
+   "type": "cname",
+   "ruleID": "b000d4226a60db4f1d5b3a24c4d84f6d",
+   "value": "sites.ufabc.edu.br",
+   "first_seen": "2020-04-28"
+  },
+  {
+   "last_seen": "2020-04-28",
+   "qtype": "1",
+   "qname": "coronavirus.ufabc.edu.br",
+   "domain": "ufabc.edu.br",
+   "dname_first_ts": "2014-07-25",
+   "qname_first_ts": "2020-04-25T02:43:12.865Z",
+   "type": "name",
+   "ruleID": "b000d4226a60db4f1d5b3a24c4d84f6d",
+   "value": "sites.ufabc.edu.br",
+   "first_seen": "2020-04-28"
+  },
+  {
+   "geoip": {
+    "continent_name": "South America",
+    "country_iso_code": "BR"
+   },
+   "last_seen": "2020-04-28",
+   "qtype": "1",
+   "qname": "coronavirus.ufabc.edu.br",
+   "domain": "ufabc.edu.br",
+   "dname_first_ts": "2014-07-25",
+   "qname_first_ts": "2020-04-25T02:43:12.865Z",
+   "type": "a",
+   "ruleID": "b000d4226a60db4f1d5b3a24c4d84f6d",
+   "value": "177.104.50.63",
+   "first_seen": "2020-04-28"
+  },
+  {
+   "geoip": {
+    "continent_name": "South America",
+    "country_iso_code": "BR"
+   },
+   "last_seen": "2020-04-28",
+   "qtype": "1",
+   "qname": "covidata.ufabc.edu.br",
+   "domain": "ufabc.edu.br",
+   "dname_first_ts": "2014-07-25",
+   "qname_first_ts": "2020-04-28T17:44:43.924Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "177.104.62.6",
+   "first_seen": "2020-04-28"
+  },
+  {
+   "last_seen": "2020-04-28",
+   "qtype": "28",
+   "domain": "mimuw.edu.pl",
+   "qname": "covid19.mimuw.edu.pl",
+   "dname_first_ts": "2014-07-30",
+   "qname_first_ts": "2020-04-28T14:33:41.001Z",
+   "type": "aaaa",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "2001:6a0:5001::3",
+   "first_seen": "2020-04-28"
+  },
+  {
+   "last_seen": "2020-04-28",
+   "qtype": "28",
+   "qname": "covid19.mimuw.edu.pl",
+   "domain": "mimuw.edu.pl",
+   "dname_first_ts": "2014-07-30",
+   "qname_first_ts": "2020-04-28T14:33:41.001Z",
+   "type": "name",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "duch.mimuw.edu.pl",
+   "first_seen": "2020-04-28"
+  },
+  {
+   "last_seen": "2020-04-28",
+   "qtype": "28",
+   "qname": "covid19.mimuw.edu.pl",
+   "domain": "mimuw.edu.pl",
+   "dname_first_ts": "2014-07-30",
+   "qname_first_ts": "2020-04-28T14:33:41.001Z",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "duch.mimuw.edu.pl",
+   "first_seen": "2020-04-28"
+  },
+  {
+   "last_seen": "2020-04-28",
+   "qtype": "1",
+   "qname": "covid19.mimuw.edu.pl",
+   "domain": "mimuw.edu.pl",
+   "dname_first_ts": "2014-07-30",
+   "qname_first_ts": "2020-04-28T14:33:41.001Z",
+   "type": "name",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "duch.mimuw.edu.pl",
+   "first_seen": "2020-04-28"
+  },
+  {
+   "geoip": {
+    "continent_name": "Europe",
+    "country_iso_code": "PL"
+   },
+   "last_seen": "2020-04-28",
+   "qtype": "1",
+   "qname": "covid19.mimuw.edu.pl",
+   "domain": "mimuw.edu.pl",
+   "dname_first_ts": "2014-07-30",
+   "qname_first_ts": "2020-04-28T14:33:41.001Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "193.0.96.2",
+   "first_seen": "2020-04-28"
+  },
+  {
+   "last_seen": "2020-04-28",
+   "qtype": "1",
+   "qname": "covid19.mimuw.edu.pl",
+   "domain": "mimuw.edu.pl",
+   "dname_first_ts": "2014-07-30",
+   "qname_first_ts": "2020-04-28T14:33:41.001Z",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "duch.mimuw.edu.pl",
+   "first_seen": "2020-04-28"
+  },
+  {
+   "geoip": {
+    "continent_name": "Africa",
+    "country_iso_code": "EG"
+   },
+   "last_seen": "2020-04-28",
+   "qtype": "1",
+   "qname": "covid-19-confront.tanta.edu.eg",
+   "domain": "tanta.edu.eg",
+   "dname_first_ts": "2014-07-27",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "193.227.17.45",
+   "first_seen": "2020-04-28"
+  },
+  {
+   "last_seen": "2020-04-28",
+   "qtype": "1",
+   "qname": "usep-bantay-covid.usep.edu.ph",
+   "domain": "usep.edu.ph",
+   "dname_first_ts": "2014-08-14",
+   "qname_first_ts": "2020-04-28T02:55:57.729Z",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "www.usep.edu.ph",
+   "first_seen": "2020-04-28"
+  },
+  {
+   "last_seen": "2020-04-28",
+   "qtype": "1",
+   "qname": "usep-bantay-covid.usep.edu.ph",
+   "domain": "usep.edu.ph",
+   "dname_first_ts": "2014-08-14",
+   "qname_first_ts": "2020-04-28T02:55:57.729Z",
+   "type": "name",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "www.usep.edu.ph",
+   "first_seen": "2020-04-28"
+  },
+  {
+   "geoip": {
+    "continent_name": "Asia",
+    "country_iso_code": "PH"
+   },
+   "last_seen": "2020-04-28",
+   "qtype": "1",
+   "qname": "usep-bantay-covid.usep.edu.ph",
+   "domain": "usep.edu.ph",
+   "dname_first_ts": "2014-08-14",
+   "qname_first_ts": "2020-04-28T02:55:57.729Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "202.137.113.149",
+   "first_seen": "2020-04-28"
+  },
+  {
+   "last_seen": "2020-04-27",
+   "qtype": "43",
+   "qname": "coronavirus.ufabc.edu.br",
+   "domain": "ufabc.edu.br",
+   "dname_first_ts": "2014-07-25",
+   "qname_first_ts": "2020-04-25T02:43:12.865Z",
+   "type": "cname",
+   "ruleID": "b000d4226a60db4f1d5b3a24c4d84f6d",
+   "value": "sites.ufabc.edu.br",
+   "first_seen": "2020-04-27"
+  },
+  {
+   "geoip": {
+    "continent_name": "South America",
+    "country_iso_code": "EC"
+   },
+   "last_seen": "2020-04-27",
+   "qtype": "1",
+   "qname": "covid.uta.edu.ec",
+   "domain": "uta.edu.ec",
+   "dname_first_ts": "2014-07-27",
+   "qname_first_ts": "2020-04-27T08:40:22.580Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "201.159.223.172",
+   "first_seen": "2020-04-27"
+  },
+  {
+   "last_seen": "2020-04-26",
+   "qtype": "28",
+   "qname": "www.covid19.ifce.edu.br",
+   "domain": "ifce.edu.br",
+   "dname_first_ts": "2014-07-25",
+   "qname_first_ts": "2020-04-25T21:22:51.618Z",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "nginx-01.ifce.edu.br",
+   "first_seen": "2020-04-26"
+  },
+  {
+   "geoip": {
+    "continent_name": "North America",
+    "country_iso_code": "US"
+   },
+   "last_seen": "2020-04-26",
+   "qtype": "1",
+   "qname": "covid19.lasalle.edu.sg",
+   "domain": "lasalle.edu.sg",
+   "dname_first_ts": "2014-07-29",
+   "qname_first_ts": "2020-03-03T11:27:22.424Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "216.58.211.115",
+   "first_seen": "2020-04-26"
+  },
+  {
+   "geoip": {
+    "continent_name": "North America",
+    "country_iso_code": "US"
+   },
+   "last_seen": "2020-04-26",
+   "qtype": "1",
+   "qname": "www.coronavirus.cihanuniversity.edu.iq",
+   "domain": "cihanuniversity.edu.iq",
+   "dname_first_ts": "2014-09-25",
+   "qname_first_ts": "2020-03-28T15:06:42.017Z",
+   "type": "a",
+   "ruleID": "b000d4226a60db4f1d5b3a24c4d84f6d",
+   "value": "216.58.193.83",
+   "first_seen": "2020-04-26"
+  },
+  {
+   "geoip": {
+    "continent_name": "Europe",
+    "country_iso_code": "FR"
+   },
+   "last_seen": "2020-04-26",
+   "qtype": "1",
+   "qname": "repertoirecovid19.uvci.edu.ci",
+   "domain": "uvci.edu.ci",
+   "dname_first_ts": "2015-09-01",
+   "qname_first_ts": "2020-04-26T15:38:04.687Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "79.99.165.44",
+   "first_seen": "2020-04-26"
+  },
+  {
+   "geoip": {
+    "continent_name": "Asia",
+    "country_iso_code": "MY"
+   },
+   "last_seen": "2020-04-26",
+   "qtype": "1",
+   "qname": "ertcovid19.upm.edu.my",
+   "domain": "upm.edu.my",
+   "dname_first_ts": "2014-07-26",
+   "qname_first_ts": "2020-04-26T09:18:07.643Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "119.40.116.227",
+   "first_seen": "2020-04-26"
+  },
+  {
+   "geoip": {
+    "continent_name": "North America",
+    "country_iso_code": "US"
+   },
+   "last_seen": "2020-04-26",
+   "qtype": "1",
+   "qname": "covid19.lasalle.edu.sg",
+   "domain": "lasalle.edu.sg",
+   "dname_first_ts": "2014-07-29",
+   "qname_first_ts": "2020-03-03T11:27:22.424Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "216.58.193.147",
+   "first_seen": "2020-04-26"
+  },
+  {
+   "last_seen": "2020-04-26",
+   "qtype": "28",
+   "qname": "covid19.lasalle.edu.sg",
+   "domain": "lasalle.edu.sg",
+   "dname_first_ts": "2014-07-29",
+   "qname_first_ts": "2020-03-03T11:27:22.424Z",
+   "type": "name",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "ghs.googlehosted.com",
+   "first_seen": "2020-04-26"
+  },
+  {
+   "last_seen": "2020-04-26",
+   "qtype": "28",
+   "domain": "lasalle.edu.sg",
+   "qname": "covid19.lasalle.edu.sg",
+   "dname_first_ts": "2014-07-29",
+   "qname_first_ts": "2020-03-03T11:27:22.424Z",
+   "type": "aaaa",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "2607:f8b0:4000:808::2013",
+   "first_seen": "2020-04-26"
+  },
+  {
+   "geoip": {
+    "continent_name": "North America",
+    "country_iso_code": "US"
+   },
+   "last_seen": "2020-04-26",
+   "qtype": "1",
+   "qname": "covid19.ms.hwai.edu.tw",
+   "domain": "hwai.edu.tw",
+   "dname_first_ts": "2014-07-28",
+   "qname_first_ts": "2020-02-23T23:43:37.231Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "216.58.194.115",
+   "first_seen": "2020-04-26"
+  },
+  {
+   "geoip": {
+    "continent_name": "South America",
+    "country_iso_code": "BR"
+   },
+   "last_seen": "2020-04-25",
+   "qtype": "1",
+   "qname": "www.covid19.ifce.edu.br",
+   "domain": "ifce.edu.br",
+   "dname_first_ts": "2014-07-25",
+   "qname_first_ts": "2020-04-25T21:22:51.618Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "200.17.33.241",
+   "first_seen": "2020-04-25"
+  },
+  {
+   "last_seen": "2020-04-25",
+   "qtype": "1",
+   "qname": "www.covid19.ifce.edu.br",
+   "domain": "ifce.edu.br",
+   "dname_first_ts": "2014-07-25",
+   "qname_first_ts": "2020-04-25T21:22:51.618Z",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "nginx-01.ifce.edu.br",
+   "first_seen": "2020-04-25"
+  },
+  {
+   "last_seen": "2020-04-25",
+   "qtype": "1",
+   "qname": "www.covid19.ifce.edu.br",
+   "domain": "ifce.edu.br",
+   "dname_first_ts": "2014-07-25",
+   "qname_first_ts": "2020-04-25T21:22:51.618Z",
+   "type": "name",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "nginx-01.ifce.edu.br",
+   "first_seen": "2020-04-25"
+  },
+  {
+   "last_seen": "2020-04-25",
+   "qtype": "0",
+   "qname": "coronavirushomekit.edu.ge",
+   "domain": "coronavirushomekit.edu.ge",
+   "dname_first_ts": "2020-04-25",
+   "qname_first_ts": "2020-04-25T18:32:00.437Z",
+   "type": "domain",
+   "ruleID": "b000d4226a60db4f1d5b3a24c4d84f6d",
+   "value": "coronavirushomekit.edu.ge",
+   "first_seen": "2020-04-25"
+  },
+  {
+   "last_seen": "2020-04-25",
+   "qtype": "6",
+   "qname": "covid19.lasalle.edu.sg",
+   "domain": "lasalle.edu.sg",
+   "dname_first_ts": "2014-07-29",
+   "qname_first_ts": "2020-03-03T11:27:22.424Z",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "ghs.googlehosted.com",
+   "first_seen": "2020-04-25"
+  },
+  {
+   "geoip": {
+    "continent_name": "South America",
+    "country_iso_code": "BR"
+   },
+   "last_seen": "2020-04-25",
+   "qtype": "1",
+   "qname": "covid19.riogrande.ifrs.edu.br",
+   "domain": "ifrs.edu.br",
+   "dname_first_ts": "2014-07-26",
+   "qname_first_ts": "2020-04-02T21:34:11.421Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "200.132.11.22",
+   "first_seen": "2020-04-25"
+  },
+  {
+   "last_seen": "2020-04-25",
+   "qtype": "1",
+   "qname": "covid19.riogrande.ifrs.edu.br",
+   "domain": "ifrs.edu.br",
+   "dname_first_ts": "2014-07-26",
+   "qname_first_ts": "2020-04-02T21:34:11.421Z",
+   "type": "name",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "geogandra.riogrande.ifrs.edu.br",
+   "first_seen": "2020-04-25"
+  },
+  {
+   "last_seen": "2020-04-25",
+   "qtype": "1",
+   "qname": "covid19.riogrande.ifrs.edu.br",
+   "domain": "ifrs.edu.br",
+   "dname_first_ts": "2014-07-26",
+   "qname_first_ts": "2020-04-02T21:34:11.421Z",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "geogandra.riogrande.ifrs.edu.br",
+   "first_seen": "2020-04-25"
+  },
+  {
+   "last_seen": "2020-04-25",
+   "qtype": "28",
+   "qname": "covid19.anadolu.edu.tr",
+   "domain": "anadolu.edu.tr",
+   "dname_first_ts": "2014-07-26",
+   "qname_first_ts": "2020-04-13T17:12:51.802Z",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "redirect2.anadolu.edu.tr",
+   "first_seen": "2020-04-25"
+  },
+  {
+   "last_seen": "2020-04-25",
+   "qtype": "28",
+   "qname": "acoescovid19.unifesspa.edu.br",
+   "domain": "unifesspa.edu.br",
+   "dname_first_ts": "2014-07-25",
+   "qname_first_ts": "2020-04-24T20:29:56.546Z",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "portais.unifesspa.edu.br",
+   "first_seen": "2020-04-25"
+  },
+  {
+   "last_seen": "2020-04-25",
+   "qtype": "28",
+   "qname": "coronavirus.ufabc.edu.br",
+   "domain": "ufabc.edu.br",
+   "dname_first_ts": "2014-07-25",
+   "qname_first_ts": "2020-04-25T02:43:12.865Z",
+   "type": "cname",
+   "ruleID": "b000d4226a60db4f1d5b3a24c4d84f6d",
+   "value": "sites.ufabc.edu.br",
+   "first_seen": "2020-04-25"
+  },
+  {
+   "geoip": {
+    "continent_name": "Asia",
+    "country_iso_code": "SG"
+   },
+   "last_seen": "2020-04-24",
+   "qtype": "1",
+   "qname": "novel-coronavirus.onlinelibrary.wiley.com.remotexs.ntu.edu.sg",
+   "domain": "ntu.edu.sg",
+   "dname_first_ts": "2014-07-25",
+   "qname_first_ts": "2020-04-24T22:49:02.271Z",
+   "type": "a",
+   "ruleID": "b000d4226a60db4f1d5b3a24c4d84f6d",
+   "value": "3.0.220.147",
+   "first_seen": "2020-04-24"
+  },
+  {
+   "last_seen": "2020-04-24",
+   "qtype": "1",
+   "qname": "novel-coronavirus.onlinelibrary.wiley.com.remotexs.ntu.edu.sg",
+   "domain": "ntu.edu.sg",
+   "dname_first_ts": "2014-07-25",
+   "qname_first_ts": "2020-04-24T22:49:02.271Z",
+   "type": "name",
+   "ruleID": "b000d4226a60db4f1d5b3a24c4d84f6d",
+   "value": "remotexs.ntu.edu.sg",
+   "first_seen": "2020-04-24"
+  },
+  {
+   "last_seen": "2020-04-24",
+   "qtype": "1",
+   "qname": "novel-coronavirus.onlinelibrary.wiley.com.remotexs.ntu.edu.sg",
+   "domain": "ntu.edu.sg",
+   "dname_first_ts": "2014-07-25",
+   "qname_first_ts": "2020-04-24T22:49:02.271Z",
+   "type": "cname",
+   "ruleID": "b000d4226a60db4f1d5b3a24c4d84f6d",
+   "value": "remotexs.ntu.edu.sg",
+   "first_seen": "2020-04-24"
+  },
+  {
+   "geoip": {
+    "continent_name": "Europe",
+    "country_iso_code": "PL"
+   },
+   "last_seen": "2020-04-24",
+   "qtype": "1",
+   "qname": "covid.ump.edu.pl",
+   "domain": "ump.edu.pl",
+   "dname_first_ts": "2014-07-26",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "150.254.179.25",
+   "first_seen": "2020-04-24"
+  },
+  {
+   "last_seen": "2020-04-24",
+   "qtype": "1",
+   "qname": "acoescovid19.unifesspa.edu.br",
+   "domain": "unifesspa.edu.br",
+   "dname_first_ts": "2014-07-25",
+   "qname_first_ts": "2020-04-24T20:29:56.546Z",
+   "type": "name",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "portais.unifesspa.edu.br",
+   "first_seen": "2020-04-24"
+  },
+  {
+   "geoip": {
+    "continent_name": "South America",
+    "country_iso_code": "BR"
+   },
+   "last_seen": "2020-04-24",
+   "qtype": "1",
+   "qname": "acoescovid19.unifesspa.edu.br",
+   "domain": "unifesspa.edu.br",
+   "dname_first_ts": "2014-07-25",
+   "qname_first_ts": "2020-04-24T20:29:56.546Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "200.139.48.54",
+   "first_seen": "2020-04-24"
+  },
+  {
+   "last_seen": "2020-04-24",
+   "qtype": "1",
+   "qname": "acoescovid19.unifesspa.edu.br",
+   "domain": "unifesspa.edu.br",
+   "dname_first_ts": "2014-07-25",
+   "qname_first_ts": "2020-04-24T20:29:56.546Z",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "portais.unifesspa.edu.br",
+   "first_seen": "2020-04-24"
+  },
+  {
+   "last_seen": "2020-04-24",
+   "qtype": "43",
+   "qname": "acoescovid19.unifesspa.edu.br",
+   "domain": "unifesspa.edu.br",
+   "dname_first_ts": "2014-07-25",
+   "qname_first_ts": "2020-04-24T20:29:56.546Z",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "portais.unifesspa.edu.br",
+   "first_seen": "2020-04-24"
+  },
+  {
+   "geoip": {
+    "continent_name": "North America",
+    "country_iso_code": "US"
+   },
+   "last_seen": "2020-04-24",
+   "qtype": "1",
+   "qname": "coronavirus.uccuyosl.edu.ar",
+   "domain": "uccuyosl.edu.ar",
+   "dname_first_ts": "2014-08-14",
+   "qname_first_ts": "2020-04-24T17:05:00.214Z",
+   "type": "a",
+   "ruleID": "b000d4226a60db4f1d5b3a24c4d84f6d",
+   "value": "138.68.232.126",
+   "first_seen": "2020-04-24"
+  },
+  {
+   "geoip": {
+    "continent_name": "South America",
+    "country_iso_code": "BR"
+   },
+   "last_seen": "2020-04-24",
+   "qtype": "1",
+   "qname": "covid.sh.utfpr.edu.br",
+   "domain": "utfpr.edu.br",
+   "dname_first_ts": "2014-07-25",
+   "qname_first_ts": "2020-04-24T13:05:18.120Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "200.134.21.219",
+   "first_seen": "2020-04-24"
+  },
+  {
+   "last_seen": "2020-04-24",
+   "qtype": "28",
+   "qname": "covid19.ifce.edu.br",
+   "domain": "ifce.edu.br",
+   "dname_first_ts": "2014-07-25",
+   "qname_first_ts": "2020-04-24T06:29:58.169Z",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "nginx-01.ifce.edu.br",
+   "first_seen": "2020-04-24"
+  },
+  {
+   "geoip": {
+    "continent_name": "South America",
+    "country_iso_code": "BR"
+   },
+   "last_seen": "2020-04-24",
+   "qtype": "1",
+   "qname": "covid19.ifce.edu.br",
+   "domain": "ifce.edu.br",
+   "dname_first_ts": "2014-07-25",
+   "qname_first_ts": "2020-04-24T06:29:58.169Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "200.17.33.241",
+   "first_seen": "2020-04-24"
+  },
+  {
+   "last_seen": "2020-04-24",
+   "qtype": "1",
+   "qname": "covid19.ifce.edu.br",
+   "domain": "ifce.edu.br",
+   "dname_first_ts": "2014-07-25",
+   "qname_first_ts": "2020-04-24T06:29:58.169Z",
+   "type": "name",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "nginx-01.ifce.edu.br",
+   "first_seen": "2020-04-24"
+  },
+  {
+   "last_seen": "2020-04-24",
+   "qtype": "1",
+   "qname": "covid19.ifce.edu.br",
+   "domain": "ifce.edu.br",
+   "dname_first_ts": "2014-07-25",
+   "qname_first_ts": "2020-04-24T06:29:58.169Z",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "nginx-01.ifce.edu.br",
+   "first_seen": "2020-04-24"
+  },
+  {
+   "last_seen": "2020-04-24",
+   "qtype": "16",
+   "qname": "coronavirus.kaust.edu.sa",
+   "domain": "kaust.edu.sa",
+   "dname_first_ts": "2014-07-25",
+   "qname_first_ts": "2020-04-24T04:01:06.261Z",
+   "type": "cname",
+   "ruleID": "b000d4226a60db4f1d5b3a24c4d84f6d",
+   "value": "rproxy.kaust.edu.sa",
+   "first_seen": "2020-04-24"
+  },
+  {
+   "geoip": {
+    "continent_name": "North America",
+    "country_iso_code": "US"
+   },
+   "last_seen": "2020-04-23",
+   "qtype": "1",
+   "qname": "covid19.lautech.edu.ng",
+   "domain": "lautech.edu.ng",
+   "dname_first_ts": "2014-07-30",
+   "qname_first_ts": "2020-04-23T22:03:42.272Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "162.144.79.244",
+   "first_seen": "2020-04-23"
+  },
+  {
+   "last_seen": "2020-04-23",
+   "qtype": "0",
+   "qname": "covidtestathome.edu.ge",
+   "domain": "covidtestathome.edu.ge",
+   "dname_first_ts": "2020-04-23",
+   "qname_first_ts": "2020-04-23T18:59:56.676Z",
+   "type": "domain",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "covidtestathome.edu.ge",
+   "first_seen": "2020-04-23"
+  },
+  {
+   "last_seen": "2020-04-23",
+   "qtype": "2",
+   "qname": "coronavirus.upr.edu.cu",
+   "domain": "upr.edu.cu",
+   "dname_first_ts": "2014-07-26",
+   "qname_first_ts": "2020-04-15T16:42:57.054Z",
+   "type": "cname",
+   "ruleID": "b000d4226a60db4f1d5b3a24c4d84f6d",
+   "value": "reverse-proxy0.upr.edu.cu",
+   "first_seen": "2020-04-23"
+  },
+  {
+   "last_seen": "2020-04-23",
+   "qtype": "1",
+   "qname": "voluntariadocovid.unicen.edu.ar",
+   "domain": "unicen.edu.ar",
+   "dname_first_ts": "2014-07-26",
+   "qname_first_ts": "2020-04-17T16:14:28.613Z",
+   "type": "name",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "webfront.unicen.edu.ar",
+   "first_seen": "2020-04-23"
+  },
+  {
+   "geoip": {
+    "continent_name": "South America",
+    "country_iso_code": "AR"
+   },
+   "last_seen": "2020-04-23",
+   "qtype": "1",
+   "qname": "voluntariadocovid.unicen.edu.ar",
+   "domain": "unicen.edu.ar",
+   "dname_first_ts": "2014-07-26",
+   "qname_first_ts": "2020-04-17T16:14:28.613Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "131.221.0.36",
+   "first_seen": "2020-04-23"
+  },
+  {
+   "last_seen": "2020-04-23",
+   "qtype": "1",
+   "qname": "voluntariadocovid.unicen.edu.ar",
+   "domain": "unicen.edu.ar",
+   "dname_first_ts": "2014-07-26",
+   "qname_first_ts": "2020-04-17T16:14:28.613Z",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "webfront.unicen.edu.ar",
+   "first_seen": "2020-04-23"
+  },
+  {
+   "geoip": {
+    "continent_name": "Asia",
+    "country_iso_code": "TW"
+   },
+   "last_seen": "2020-04-22",
+   "qtype": "1",
+   "qname": "covid19.ncku.edu.tw",
+   "domain": "ncku.edu.tw",
+   "dname_first_ts": "2014-07-26",
+   "qname_first_ts": "2020-04-22T22:29:03.210Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "140.116.241.60",
+   "first_seen": "2020-04-22"
+  },
+  {
+   "geoip": {
+    "continent_name": "Asia",
+    "country_iso_code": "CN"
+   },
+   "last_seen": "2020-04-22",
+   "qtype": "1",
+   "qname": "novel--coronavirus-onlinelibrary-wiley-com-s.vpn.cau.edu.cn",
+   "domain": "cau.edu.cn",
+   "dname_first_ts": "2014-07-27",
+   "qname_first_ts": "2020-04-22T19:46:46.933Z",
+   "type": "a",
+   "ruleID": "b000d4226a60db4f1d5b3a24c4d84f6d",
+   "value": "202.205.93.161",
+   "first_seen": "2020-04-22"
+  },
+  {
+   "last_seen": "2020-04-22",
+   "qtype": "28",
+   "domain": "cihanuniversity.edu.iq",
+   "qname": "coronavirus.cihanuniversity.edu.iq",
+   "dname_first_ts": "2014-09-25",
+   "qname_first_ts": "2020-03-28T15:06:42.017Z",
+   "type": "aaaa",
+   "ruleID": "b000d4226a60db4f1d5b3a24c4d84f6d",
+   "value": "2404:6800:4001:801::2013",
+   "first_seen": "2020-04-22"
+  },
+  {
+   "geoip": {
+    "continent_name": "South America",
+    "country_iso_code": "BR"
+   },
+   "last_seen": "2020-04-21",
+   "qtype": "1",
+   "qname": "enfrentamentocoronavirus.unipam.edu.br",
+   "domain": "unipam.edu.br",
+   "dname_first_ts": "2014-07-26",
+   "qname_first_ts": "2020-04-21T22:30:38.772Z",
+   "type": "a",
+   "ruleID": "b000d4226a60db4f1d5b3a24c4d84f6d",
+   "value": "177.85.6.217",
+   "first_seen": "2020-04-21"
+  },
+  {
+   "last_seen": "2020-04-21",
+   "qtype": "0",
+   "qname": "covid19coronaviruskits.edu.ge",
+   "domain": "covid19coronaviruskits.edu.ge",
+   "dname_first_ts": "2020-04-21",
+   "qname_first_ts": "2020-04-21T19:19:20.035Z",
+   "type": "domain",
+   "ruleID": "b000d4226a60db4f1d5b3a24c4d84f6d",
+   "value": "covid19coronaviruskits.edu.ge",
+   "first_seen": "2020-04-21"
+  },
+  {
+   "last_seen": "2020-04-21",
+   "qtype": "2",
+   "qname": "covid19.riogrande.ifrs.edu.br",
+   "domain": "ifrs.edu.br",
+   "dname_first_ts": "2014-07-26",
+   "qname_first_ts": "2020-04-02T21:34:11.421Z",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "geogandra.riogrande.ifrs.edu.br",
+   "first_seen": "2020-04-21"
+  },
+  {
+   "last_seen": "2020-04-21",
+   "qtype": "16",
+   "domain": "facema.edu.br",
+   "qname": "covid19.facema.edu.br",
+   "spf_refs": {
+    "cidr": [
+     "198.136.48.194/32"
+    ],
+    "policy": "softfail"
+   },
+   "dname_first_ts": "2014-09-02",
+   "qname_first_ts": "2020-04-21T12:56:15.648Z",
+   "type": "txt",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "&v=spf1 +a +mx +ip4:198.136.48.194 ~all",
+   "first_seen": "2020-04-21"
+  },
+  {
+   "last_seen": "2020-04-21",
+   "qtype": "16",
+   "domain": "facema.edu.br",
+   "qname": "covid19.facema.edu.br",
+   "dname_first_ts": "2014-09-02",
+   "qname_first_ts": "2020-04-21T12:56:15.648Z",
+   "type": "txt_base64",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "JnY9c3BmMSArYSArbXggK2lwNDoxOTguMTM2LjQ4LjE5NCB+YWxs",
+   "first_seen": "2020-04-21"
+  },
+  {
+   "geoip": {
+    "continent_name": "Europe",
+    "country_iso_code": "PL"
+   },
+   "last_seen": "2020-04-21",
+   "qtype": "1",
+   "qname": "www.covid-19-stf.gumed.edu.pl",
+   "domain": "gumed.edu.pl",
+   "dname_first_ts": "2014-07-26",
+   "qname_first_ts": "2020-04-18T10:31:52.615Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "153.19.64.251",
+   "first_seen": "2020-04-21"
+  },
+  {
+   "last_seen": "2020-04-21",
+   "qtype": "1",
+   "qname": "www.covid-19-stf.gumed.edu.pl",
+   "domain": "gumed.edu.pl",
+   "dname_first_ts": "2014-07-26",
+   "qname_first_ts": "2020-04-18T10:31:52.615Z",
+   "type": "name",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "cms.gumed.edu.pl",
+   "first_seen": "2020-04-21"
+  },
+  {
+   "last_seen": "2020-04-21",
+   "qtype": "1",
+   "qname": "www.covid-19-stf.gumed.edu.pl",
+   "domain": "gumed.edu.pl",
+   "dname_first_ts": "2014-07-26",
+   "qname_first_ts": "2020-04-18T10:31:52.615Z",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "paguma.gumed.edu.pl",
+   "first_seen": "2020-04-21"
+  },
+  {
+   "last_seen": "2020-04-21",
+   "qtype": "1",
+   "qname": "www.covid-19-stf.gumed.edu.pl",
+   "domain": "gumed.edu.pl",
+   "dname_first_ts": "2014-07-26",
+   "qname_first_ts": "2020-04-18T10:31:52.615Z",
+   "type": "name",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "paguma.gumed.edu.pl",
+   "first_seen": "2020-04-21"
+  },
+  {
+   "last_seen": "2020-04-21",
+   "qtype": "1",
+   "qname": "www.covid-19-stf.gumed.edu.pl",
+   "domain": "gumed.edu.pl",
+   "dname_first_ts": "2014-07-26",
+   "qname_first_ts": "2020-04-18T10:31:52.615Z",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "cms.gumed.edu.pl",
+   "first_seen": "2020-04-21"
+  },
+  {
+   "last_seen": "2020-04-21",
+   "qtype": "28",
+   "domain": "neu.edu.tr",
+   "qname": "covid19.neu.edu.tr",
+   "dname_first_ts": "2014-07-25",
+   "qname_first_ts": "2020-04-12T13:45:21.615Z",
+   "type": "aaaa",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "2606:4700:10::6816:3fc8",
+   "first_seen": "2020-04-21"
+  },
+  {
+   "last_seen": "2020-04-21",
+   "qtype": "28",
+   "domain": "neu.edu.tr",
+   "qname": "covid19.neu.edu.tr",
+   "dname_first_ts": "2014-07-25",
+   "qname_first_ts": "2020-04-12T13:45:21.615Z",
+   "type": "aaaa",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "2606:4700:10::6816:3ec8",
+   "first_seen": "2020-04-21"
+  },
+  {
+   "geoip": {
+    "continent_name": "North America",
+    "country_iso_code": "US"
+   },
+   "last_seen": "2020-04-21",
+   "qtype": "1",
+   "qname": "covid19.neu.edu.tr",
+   "domain": "neu.edu.tr",
+   "dname_first_ts": "2014-07-25",
+   "qname_first_ts": "2020-04-12T13:45:21.615Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "104.22.62.200",
+   "first_seen": "2020-04-21"
+  },
+  {
+   "geoip": {
+    "continent_name": "North America",
+    "country_iso_code": "US"
+   },
+   "last_seen": "2020-04-21",
+   "qtype": "1",
+   "qname": "covid19.neu.edu.tr",
+   "domain": "neu.edu.tr",
+   "dname_first_ts": "2014-07-25",
+   "qname_first_ts": "2020-04-12T13:45:21.615Z",
+   "type": "a",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "104.22.63.200",
+   "first_seen": "2020-04-21"
+  },
+  {
+   "last_seen": "2020-04-21",
+   "qtype": "28",
+   "qname": "www.covid19.ssct.edu.ph",
+   "domain": "ssct.edu.ph",
+   "dname_first_ts": "2014-08-03",
+   "qname_first_ts": "2020-04-20T07:53:12.757Z",
+   "type": "cname",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "covid19.ssct.edu.ph",
+   "first_seen": "2020-04-21"
+  },
+  {
+   "last_seen": "2020-04-20",
+   "qtype": "6",
+   "domain": "ssct.edu.ph",
+   "qname": "covid19.ssct.edu.ph",
+   "dname_first_ts": "2014-08-03",
+   "qname_first_ts": "2020-04-20T07:53:12.757Z",
+   "type": "soa_email",
+   "ruleID": "4653780a36057d2569dbf3ad83b52002",
+   "value": "localhost-notifs@localhost-notifs-aries.com",
+   "first_seen": "2020-04-20"
+  }
+ ]
+}
