@@ -7,11 +7,17 @@ Initial stage
 
 | Feature | Data type  |  Description |
 | ------- | --- | -----------|
-| Freenom_TLD | categorical | Freenom top level domain (TLD) |
-| Suspecious_TLD | categorical | Previous malicious top level domain (TLD)|
-| Word_ratio | ordinal | Ratio of the longest English word |
-| Contain_number | categorical | Containing digits |
-| Length_of_domain | ordinal | Name length |
-| Contain_dash | categorical | Containing “-” |
-| Number_of_sub_domain| ordinal | Number of subdomains |
-| Contain_IP | categorical | Presence of IP address in the URL |
+| Reachable_URL | categorical | Check whether the browser can reach to the url|
+| Time_stamp_if_exist | int | Check the earliest timestamp history of the website|
+| Way_back_archived | categorical | Check whether the website is archived on Wayback Machine |
+| Freenom_top_level_domain | categorical | Freenom top level domain (TLD) |
+| Previous_malicious_top_level_domain_TLD | categorical | Previous malicious top level domain (TLD)|
+| Name_length | ordinal | Domain Name length |
+| Wrong_spell_List | categorical | Check whether the domain contain the wrong spell words|
+| word_dic | ordinal | Ratio of the longest English word |
+| Special_mark | categorical | Containing “-” |
+| sub_domain| ordinal | Number of subdomains |
+| Contain_IP_Adress | categorical | Presence of IP address in the URL |
+| levenshtein_distance | ordinal | Mean levenshtein edit distance to confirmed phishing website |
+| Alexa_rank | ordinal | Check the Alexa rank of the domain |
+| Status_code | categorical | Check the domain status code by calling Amazon web service |
