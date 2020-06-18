@@ -1,9 +1,10 @@
 # Covid-19-project
 
 Initial stage
-1. whitelist_data.csv contains all white domain list with its feature(Length:600).
-2. unlabeled_data.csv contains all unlabeled domain list with its feature(Length:265336).
-3. Covid.ipynb produces the inital featrue extraction from the raw data according to Professor Sopie's thesis.
+1. data_white_final.csv contains all white domain list with its feature.
+2. data_maclious_final.csv contains all maclious domain list with its feature.
+3. data_final_version1.csv contains all unlabeled domain list with its feature.
+4. Covid_unified_version.ipynb produces the inital featrue extraction from the raw data according to Professor Sopie's thesis and initial DBSCAN algorithm.
 
 | Feature | Data type  |  Description |
 | ------- | --- | -----------|
