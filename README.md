@@ -48,3 +48,11 @@ Results:
 Estimated number of clusters: 18  
 Estimated number of noise points: 1788  
 Silhouette Coefficient: 0.063
+
+
+Next release on:
+-------
+1. Enhance the wrong spell check.
+2. Implementing cluster on new features.
+3. Duplicate feature analysis.
+4. Implementing one-class classification on phishtank-urls.
