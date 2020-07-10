@@ -10,7 +10,7 @@ Initial stage
 6. Covid_unified_version.ipynb produces the inital featrue extraction from the raw data according to Professor Sopie's thesis and initial DBSCAN algorithm.
 7. Phish_tank preprocess.ipynb contains new feature extraction opteration and phish tank data preprocessing steps.
 
-Data info
+Data information
 ---------
 | Name | Size | features |
 |------ | ----| ------|
@@ -49,23 +49,22 @@ Inital feature transformation and data cleaning
 1. Convert Alexa_rank from ordinal to binary data format. 1 means the domain has record on Alexa rank, 0 means the opposite.
 2. Implement datawig Deep learning imputer model on start_date and end_date to impute missing values. 
 3. Since the missing values in start_date and end_date in unlabeled_final is more than 50%, using features correlation table to extract the most relevant features corresponding to start_date and end_date can be much more accurate than the mean, median or most frequent imputation methods.
-
+4. Normalize levenshtein_distance and site_age(days)
 Feature correlation socre table
 ------------
 ![Screenshot](WechatIMG199.jpeg)
                                       
                                                   
-                                                     
-
-Inital DBSCAN parameter
+                                                    
+Inital One-class SVM parameter and parameter tuning process
 ------------------------
-| Parameter | Value  |  
-| ------- | --- | 
-| Eps | 1.5| 
-| Min_samples | 30 |
-| Metric | Euclidean | 
-| Algorithm | Auto | 
-| Leaf_size | 30 | 
+| Parameter | Value |
+| --------- | -----|
+| Kernel | poly |
+| gamma | scale |
+In the stage, Phish_tank data is regarded as negative cluster where one-class SVM model is trained on, degree of SVM model is tuned during the initial process. The rate of positive label(legitimate url) is used as performance on the observation process to find out how the level of degree would affect model performance.
+
+
 
 Results:
 -------
