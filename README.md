@@ -82,13 +82,3 @@ Inital DBSCAN clustering and parameter tuning process
 
 
 
-
-
-Results:
--------
-Estimated number of clusters: 18  
-Estimated number of noise points: 1788  
-Silhouette Coefficient: 0.063
-
-
-
