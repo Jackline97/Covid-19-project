@@ -56,7 +56,7 @@ Feature correlation socre table
                                       
                                                   
                                                     
-Inital One-class SVM parameter and parameter tuning process
+Inital One-class SVM classification and parameter tuning process
 ------------------------
 | Parameter | Value |
 | --------- | -----|
@@ -68,6 +68,23 @@ Discussion
 In the stage, Phish_tank data is regarded as negative cluster where one-class SVM model is trained on, degree of SVM model is tuned during the initial process. The rate of positive label(legitimate url) is used as performance on the observation process to find out how the level of degree would affect model performance.
 ![Screenshot](p1.png)
 
+Inital DBSCAN clustering and parameter tuning process
+------------------------
+| Parameter | Value |
+| --------- | -----|
+| eps | 1.5 |
+| min_samples | 30 |
+| metric | cosine |
+| metric_params | None|
+| algorithm | auto |
+| leaf_size | 30|
+
+Discussion
+----------
+In the stage, Phish_tank data is regarded as negative cluster where one-class SVM model is trained on, degree of SVM model is tuned during the initial process. The rate of positive label(legitimate url) is used as performance on the observation process to find out how the level of degree would affect model performance.
+![Screenshot](p1.png)
+
+
 
 Results:
 -------
@@ -76,9 +93,4 @@ Estimated number of noise points: 1788
 Silhouette Coefficient: 0.063
 
 
-Next release on:
--------
-1. Enhance the wrong spell check.
-2. Implementing cluster on new features.
-3. Duplicate feature analysis.
-4. Implementing one-class classification on phishtank-urls.
+
