@@ -10,6 +10,14 @@ Initial stage
 6. Covid_unified_version.ipynb produces the inital featrue extraction from the raw data according to Professor Sopie's thesis and initial DBSCAN algorithm.
 7. Phish_tank preprocess.ipynb contains new feature extraction opteration and phish tank data preprocessing steps.
 
+Data info
+---------
+| Name | Size | features |
+|------ | ----| ------|
+| unlabeled data | 229488 rows | 21|
+| Phish tank data | 98251 rows | 21 |
+| Confirmed Covid19 related maclious data | 394 rows |21 |
+| white list data | 98 rows | 21|
 
 Feature description
 --------------------
