@@ -40,7 +40,8 @@ Inital feature transformation and data cleaning
 ------------------------------
 1. Convert Alexa_rank from ordinal to binary data format. 1 means the domain has record on Alexa rank, 0 means the opposite.
 2. Implement datawig Deep learning imputer model on start_date and end_date to impute missing values. 
-3. 
+3. Since the missing values in start_date and end_date in unlabeled_final is more than 50%, using features correlation table to extract the most relevant features corresponding to start_date and end_date can be much more accurate than the mean, median or most frequent imputation methods.
+
 
 Inital DBSCAN parameter
 ------------------------
