@@ -9,6 +9,7 @@ Initial stage
 5. Data_cleaning contains part of the data preprocessing steps and data cleaning on the faature with null value.
 6. Covid_unified_version.ipynb produces the inital featrue extraction from the raw data according to Professor Sopie's thesis and initial DBSCAN algorithm.
 7. Phish_tank preprocess.ipynb contains new feature extraction opteration and phish tank data preprocessing steps.
+8. Algorithm construction.ipynb contains current one-class SVM and DBSCAN algorithms
 
 Data information
 ---------
