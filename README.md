@@ -66,7 +66,7 @@ Inital One-class SVM parameter and parameter tuning process
 Discussion
 ----------
 In the stage, Phish_tank data is regarded as negative cluster where one-class SVM model is trained on, degree of SVM model is tuned during the initial process. The rate of positive label(legitimate url) is used as performance on the observation process to find out how the level of degree would affect model performance.
-![Screenshot](p1.jpeg)
+![Screenshot](p1.jepg)
 
 
 Results:
