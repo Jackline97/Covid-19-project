@@ -36,10 +36,11 @@ Feature description
 | Redirect_URL | categorical | This feature checks whether access to the domain redirectsto a different domain. |
 | Blocked_url | categorical |This feature checks whether access to the domain returns error|
 
-Inital feature transformation
+Inital feature transformation and data cleaning
 ------------------------------
 1. Convert Alexa_rank from ordinal to binary data format. 1 means the domain has record on Alexa rank, 0 means the opposite.
-2. Convert Time_stamp_if_exist from ordinal to catefory. 2 means the earliest visitor record of the domain is before 2020, 1 means in 2020, 0 means no record.
+2. Implement datawig Deep learning imputer model on start_date and end_date to impute missing values. 
+3. 
 
 Inital DBSCAN parameter
 ------------------------
