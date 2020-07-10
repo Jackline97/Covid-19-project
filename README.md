@@ -33,6 +33,7 @@ Feature description
 | Longest_word_ratio | ordinal | Ratio of the longest English word |
 | Special_mark | categorical | Containing “-” |
 | sub_domain| ordinal | Number of subdomains |
+| Shortening_service | ordinal | whether the url implement shortening service|
 | Contain_Weried_number_combination | categorical | Presence of IP address in the URL |
 | levenshtein_distance | ordinal | Mean levenshtein edit distance to confirmed phishing website |
 | Alexa_rank | ordinal | Check the Alexa rank of the domain |
