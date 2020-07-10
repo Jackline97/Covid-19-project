@@ -43,7 +43,7 @@ Inital feature transformation and data cleaning
 3. Since the missing values in start_date and end_date in unlabeled_final is more than 50%, using features correlation table to extract the most relevant features corresponding to start_date and end_date can be much more accurate than the mean, median or most frequent imputation methods.
 ![Screenshot](WechatIMG199.jpeg)
                                                      *Feature correlation socre table*
-                                                   <p style="text-align: center">*Feature correlation socre table*</p>
+                                                   <sup>*Feature correlation socre table*</sup>
                                                      
 
 Inital DBSCAN parameter
