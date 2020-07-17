@@ -1,5 +1,17 @@
 # Covid-19-project
 
+Update
+--------
+1. data_confirmed_CovidURL_final_version2.csv. data_Confirmed_whitelist_final_version2.csv. data_unlabled_data_final_version2.csv remove the columns ['end_date','blocked url','site age(days)','Shortening_service'], 
+2. By relocating the IP address of the domain, querying the creation date of the IP address supplements the missing value in the previous start date。
+| Name | Non_missing_value_rate(start_date)before | Non_missing_value_rate(start_date)after |
+|------ | ----| ------|
+| unlabeled data | 38% | 85%|
+| Confirmed Covid19 related maclious data | 55% |79% |
+| white list data | 100% | 100% |
+
+
+
 Initial stage
 --------------
 1. Confirmed_whitelist_final_version.csv contains all white domain list with its feature.
