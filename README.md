@@ -4,6 +4,10 @@ Update
 --------
 1. data_confirmed_CovidURL_final_version2.csv. data_Confirmed_whitelist_final_version2.csv. data_unlabled_data_final_version2.csv remove the columns ['end_date','blocked url','site age(days)','Shortening_service'], 
 2. By relocating the IP address of the domain, querying the creation date of the IP address supplements the missing value in the previous start date。
+3. Add new feature 'Created on 2020'.
+
+
+
 | Name | Non_missing_value_rate(start_date)before | Non_missing_value_rate(start_date)after |
 |------ | ----| ------|
 | unlabeled data | 38% | 85%|
