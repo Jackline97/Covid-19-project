@@ -20,7 +20,7 @@ Algorithms performance
 
 
 | Name | Accuracy | precision | recall | F1 score | Configuration | 
-| ----- | ----- | ------- | ------ | ------ |
+| ----- | ----- | ------- | ------ | ------ | ----- |
 | DT | 93.1% | 93.1% | 93.1% | 93.0% | criterion = gini, max depth = None,max max features=auto |
 | KNN | 92.3% | 92.3% | 92.4% | 92.4% | n neighbors = 14, weights = distance,p=2 |
 | RF | 94.6% | 94.6% | 94.6% | 94.6% |n estimators = 100, max depth = None, max features=auto |
