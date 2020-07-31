@@ -7,7 +7,7 @@ Update(Jul 31 2020)
 2. Construct the sample data with confirmed label and construct initial algorithms on the sample dataset.
 3. Removed feature 'special_mark'.
 4. data_Confirmed_whitelist_final_version3.csv and data_confirmed_CovidURL_final_version3.csv are sample data with label
-
+5. Algorithm tuning.ipynb contains current algorithms
 Sample data structure
 ---------
 
