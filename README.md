@@ -1,6 +1,38 @@
 # Covid-19-project
 
-Update
+Update(Jul 31 2020)
+--------
+
+1. Rebuild whois search model, current non-empty rate of unlabel_data is 100%.
+2. Construct the sample data with confirmed label and construct initial algorithms on the sample dataset.
+3. Removed feature 'special_mark'
+
+Sample data structure
+---------
+
+| Name | Size | # of Features |
+| ----- | ----- | ------- |
+| white_list_final | 680 | 17 |
+| confirmed_maclious_final | 548 | 17 |
+
+Algorithms performance
+--------
+
+
+| Name | Accuracy | precision | recall | F1 score | Configuration | 
+| ----- | ----- | ------- | ------ | ------ |
+| DT | 93.1% | 93.1% | 93.1% | 93.0% | criterion = gini, max depth = None,max max features=auto |
+| KNN | 92.3% | 92.3% | 92.4% | 92.4% | n neighbors = 14, weights = distance,p=2 |
+| RF | 94.6% | 94.6% | 94.6% | 94.6% |n estimators = 100, max depth = None, max features=auto |
+| NB | 79.9% | 79.9% | 79.8% | 79.9% | - |
+| MLP | 86.9% | 86.9% | 86.9% | 86.9% |batch_size = 100,epochs = 30,optimizer = SGD,lr=0.0001,loss='binary_crossentropy'|
+
+
+
+
+
+
+Update(Jul 25 2020)
 --------
 1. data_confirmed_CovidURL_final_version2.csv. data_Confirmed_whitelist_final_version2.csv. data_unlabled_data_final_version2.csv remove the columns ['end_date','blocked url','site age(days)','Shortening_service'], 
 2. By relocating the IP address of the domain, querying the creation date of the IP address supplements the missing value in the previous start date。
