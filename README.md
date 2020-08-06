@@ -1,4 +1,20 @@
 # Covid-19-project
+Update(Aug 16 2020)
+---------------
+1. Decision interpretation
+2. Parameter tuning
+3. Feature importance
+
+
+
+
+
+
+
+
+
+
+
 
 Update(Jul 31 2020)
 --------
