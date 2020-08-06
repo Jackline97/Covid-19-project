@@ -10,6 +10,7 @@ KNN
 The performance graph on KNN with # of neighbors as variable
 ![Screenshot](KNN_performance.png)
 
+Best performance by KNN(k=3,accuracy = 93.1%)
 
 RF
 ---
@@ -28,9 +29,28 @@ max_depth=15, criterion = 'gini'
 ![Screenshot](ET_est.png)
 
 
+The best performance(Accuracy) in ET is 95.3% with n_estimator = 120
 Feature importance
 --------------
-
+![Screenshot](feature_importance.png)
+Feature ranking
+|Feature code| Feature name|
+| ------- | ------ |
+|feature 11 (0.196981) |Status_code|
+|feature 1 (0.179109) |Reachable_URL|
+|feature 0 (0.153517) |Created on 2020|
+|feature 10 (0.138115) |Alexa_rank|
+|feature 7 (0.067729) |Longest_word_ratio|
+|feature 6 (0.066360) |Wrong_spell_List|
+|feature 14 (0.065035) |Redirect_URL|
+|feature 4 (0.058977) |Previous_malicious_top_level_domain_TLD|
+|feature 9 (0.041357) |Contain_Weried_number_combination|
+|feature 12 (0.019624) |start_date|
+|feature 3 (0.007375) |Freenom_top_level_domain|
+|feature 2 (0.003508) |Way_back_archived|
+|feature 8 (0.001861) |sub_domain|
+|feature 13 (0.000305) |wildcard_subdomain|
+15. feature 5 (0.000146) |Name_length|
 
 Update(Jul 31 2020)
 --------
