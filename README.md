@@ -7,14 +7,16 @@ Update(Aug 16 2020)
 
 KNN
 ----
-The performance table on KNN with # of neighbors as variable
+The performance graph on KNN with # of neighbors as variable
 ![Screenshot](KNN_performance.png)
 
 
-
-
-
-
+RF
+---
+comparison between gini and entropy with the # of max depth as variable
+![Screenshot](RF_ge.png)
+According above graph, the max accuracy produced by gini and entropy are the same, hence max_depth = 13, criterion = 'gini' are choosed for the n_estamator comparision.
+![Screenshot](RF_maxdepth.png)
 
 
 
