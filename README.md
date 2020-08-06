@@ -15,10 +15,11 @@ RF
 ---
 comparison between gini and entropy with the # of max depth as variable
 ![Screenshot](RF_ge.png)
-According above graph, the max accuracy produced by gini and entropy are the same, hence max_depth = 13, criterion = 'gini' are choosed for the n_estamator comparision.
+According above graph, the max accuracy produced by gini and entropy are the same, hence max_depth = 13, criterion = 'gini' are choosed for the n_estimator comparision.
 ![Screenshot](RF_maxdepth.png)
 
 
+The best performance(Accuracy) in RF is 96.3% with n_estimator = 5
 
 
 
