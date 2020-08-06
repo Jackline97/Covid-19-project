@@ -8,7 +8,7 @@ Update(Aug 16 2020)
 KNN
 ----
 The performance table on KNN with # of neighbors as variable
-![Screenshot](KNN performance.png)
+![Screenshot](KNN_performance.png)
 
 
 
