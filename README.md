@@ -21,8 +21,10 @@ According above graph, the max accuracy produced by gini and entropy are the sam
 
 The best performance(Accuracy) in RF is 96.3% with n_estimator = 5
 
-
-
+ET(Extra tree classifier)
+-------------
+![Screenshot](ET_ge.png)
+![Screenshot](ET_ge.png)
 
 Update(Jul 31 2020)
 --------
