@@ -1,5 +1,5 @@
 # Covid-19-project
-Update(Aug 16 2020)
+Update(Aug 6 2020)
 ---------------
 1. Decision interpretation(Contains in Covid_entropy.pdf and Covid_gini.pdf)
 2. Parameter tuning(KNN,DT,RF,NB,ET)
