@@ -24,7 +24,13 @@ The best performance(Accuracy) in RF is 96.3% with n_estimator = 5
 ET(Extra tree classifier)
 -------------
 ![Screenshot](ET_ge.png)
-![Screenshot](ET_ge.png)
+max_depth=15, criterion = 'gini'
+![Screenshot](ET_est.png)
+
+
+Feature importance
+--------------
+
 
 Update(Jul 31 2020)
 --------
