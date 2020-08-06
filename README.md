@@ -30,6 +30,8 @@ max_depth=15, criterion = 'gini'
 
 
 The best performance(Accuracy) in ET is 95.3% with n_estimator = 120
+
+
 Feature importance
 --------------
 ![Screenshot](feature_importance.png)
