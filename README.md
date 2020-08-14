@@ -39,18 +39,72 @@ Decision Tree
 -------------
 Performace graph on the correlation between max_depth and performance:
 ![Screenshot](pics/d1.png)
+best depth for accuracy: 4 accuracy: 0.9482758620689655
+best depth for precision: 4 precision: 0.9271844660194175
+best depth for f1_score: 4 f1_score: 0.9478908188585609
+best depth for recall: 3 recall: 0.9746192893401016
 
 Performace graph on the correlation between min_leaf_number and performance:
 ![Screenshot](pics/d2.png)
+minimum sample for accuracy: 2 accuracy: 0.9482758620689655
+minimum sample for precision: 2 precision: 0.9271844660194175
+minimum sample for f1_score: 2 f1_score: 0.9478908188585609
+minimum sample for recall: 17 recall: 0.9796954314720813
 
 Best DT visualize
 ![Screenshot](pics/d3.png)
 
+KNN
+-----
+Parameter(weights='distance',p=2)
+Performace graph on the correlation between Number_of_K and performance:
+![Screenshot](pics/k1.png)
+best K for accuracy: 7 accuracy: 0.9384236453201971
+best K for precision: 7 precision: 0.93
+best K for f1_score: 7 f1_score: 0.9370277078085644
+best K for recall: 7 recall: 0.9441624365482234
+
+RF
+---
+Performace graph on the correlation between max_depth and performance:
+![Screenshot](pics/r1.png)
+best depth for accuracy: 17 accuracy: 0.9655172413793104
+best depth for precision: 17 precision: 0.9552238805970149
+best depth for f1_score: 17 f1_score: 0.9648241206030151
+best depth for recall: 8 recall: 0.9796954314720813
+
+Performace graph on the correlation between n_estimators and performance:
+![Screenshot](pics/r3.png)
+best estimator for accuracy: 12 accuracy: 0.9679802955665024
+best estimator for precision: 2 precision: 0.9820359281437125
+best estimator for f1_score: 164 f1_score: 0.9674185463659148
+best estimator for recall: 27 recall: 0.9796954314720813
+
+Performace graph on the correlation between criterion and performance:
+![Screenshot](pics/r2.png)
 
 
+ET
+---
+Performace graph on the correlation between max_depth and performance:
+![Screenshot](pics/e1.png)
+best depth for accuracy: 10 accuracy: 0.9507389162561576
+best depth for precision: 17 precision: 0.9489795918367347
+best depth for f1_score: 10 f1_score: 0.949748743718593
+best depth for recall: 6 recall: 0.9644670050761421
 
+Performace graph on the correlation between n_estimators and performance:
+![Screenshot](pics/e3.png)
+best estimator for accuracy: 16 accuracy: 0.9630541871921182
+best estimator for precision: 8 precision: 0.972972972972973
+best estimator for f1_score: 16 f1_score: 0.9620253164556962
+best estimator for recall: 15 recall: 0.9644670050761421
 
+Performace graph on the correlation between criterion and performance:
+![Screenshot](pics/e2.png)
 
+MLP
+-----
 
 
 
