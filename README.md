@@ -35,10 +35,16 @@ Feature ranking
 |feature 11 (0.000000) |wildcard_subdomain|
 
 
+Decision Tree
+-------------
+Performace graph on the correlation between max_depth and performance:
+![Screenshot](pics/d1.png)
 
+Performace graph on the correlation between min_leaf_number and performance:
+![Screenshot](pics/d2.png)
 
-
-
+Best DT visualize
+![Screenshot](pics/d3.png)
 
 
 
