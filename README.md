@@ -1,4 +1,53 @@
 # Covid-19-project
+
+Update(Aug 14 2020)
+------------------
+Note: The different best performance in the following algorithms might be result from different parameters which would be specially illustrate in the following description.
+
+| Name | Best_Accuracy | Best_precision | Best_recall | Best_F1 score | 
+| ----- | ----- | ------- | ------ | ------ | 
+| DT | 94.8% | 92.7% | 97.9% | 94.7% | 
+| KNN | 93.8% | 93.0% | 94.4% | 93.7% |
+| RF | 96.7% | 98.2% | 97.9% | 96.7% |
+| NB | 87.3% | 89.6% | 83.7% | 86.6% | 
+| ET | 96.3% | 97.2% | 96.4% | 96.2% | 
+| MLP | 89.6% | 89.3% | 96.4% | 89.7% |
+
+
+Feature importance
+--------------
+![Screenshot](feature_importance.png)
+Feature ranking
+|Feature code| Feature name|
+| ------- | ------ |
+|feature 8 (0.292557)| Contain_Weried_number_combination|
+|feature 9 (0.194848) |Alexa_rank|
+|feature 0 (0.182058)| Created on 2020|
+|feature 3 (0.083511) |Previous_malicious_top_level_domain_TLD|
+|feature 5 (0.075750) |Wrong_spell_List|
+|feature 12 (0.054549) |Redirect_URL|
+|feature 6 (0.051481) |Longest_word_ratio|
+|feature 10 (0.049043) |start_date|
+|feature 7 (0.006558) |sub_domain|
+|feature 2 (0.005403) |Freenom_top_level_domain|
+|feature 1 (0.003594) |Way_back_archived|
+|feature 4 (0.000650) |Name_length|
+|feature 11 (0.000000) |wildcard_subdomain|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Update(Aug 6 2020)
 ---------------
 1. Decision interpretation(Contains in Covid_entropy.pdf and Covid_gini.pdf)
