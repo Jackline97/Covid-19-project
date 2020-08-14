@@ -39,17 +39,17 @@ Decision Tree
 -------------
 Performace graph on the correlation between max_depth and performance:
 ![Screenshot](pics/d1.png)
-best depth for accuracy: 4 accuracy: 0.9482758620689655
-best depth for precision: 4 precision: 0.9271844660194175
-best depth for f1_score: 4 f1_score: 0.9478908188585609
-best depth for recall: 3 recall: 0.9746192893401016
+best depth for accuracy: 4 accuracy: 0.9482758620689655  
+best depth for precision: 4 precision: 0.9271844660194175  
+best depth for f1_score: 4 f1_score: 0.9478908188585609  
+best depth for recall: 3 recall: 0.9746192893401016  
 
 Performace graph on the correlation between min_leaf_number and performance:
 ![Screenshot](pics/d2.png)
-minimum sample for accuracy: 2 accuracy: 0.9482758620689655
-minimum sample for precision: 2 precision: 0.9271844660194175
-minimum sample for f1_score: 2 f1_score: 0.9478908188585609
-minimum sample for recall: 17 recall: 0.9796954314720813
+minimum sample for accuracy: 2 accuracy: 0.9482758620689655  
+minimum sample for precision: 2 precision: 0.9271844660194175  
+minimum sample for f1_score: 2 f1_score: 0.9478908188585609  
+minimum sample for recall: 17 recall: 0.9796954314720813  
 
 Best DT visualize
 ![Screenshot](pics/d3.png)
@@ -59,26 +59,26 @@ KNN
 Parameter(weights='distance',p=2)
 Performace graph on the correlation between Number_of_K and performance:
 ![Screenshot](pics/k1.png)
-best K for accuracy: 7 accuracy: 0.9384236453201971
-best K for precision: 7 precision: 0.93
-best K for f1_score: 7 f1_score: 0.9370277078085644
-best K for recall: 7 recall: 0.9441624365482234
+best K for accuracy: 7 accuracy: 0.9384236453201971  
+best K for precision: 7 precision: 0.93  
+best K for f1_score: 7 f1_score: 0.9370277078085644  
+best K for recall: 7 recall: 0.9441624365482234  
 
 RF
 ---
 Performace graph on the correlation between max_depth and performance:
 ![Screenshot](pics/r1.png)
-best depth for accuracy: 17 accuracy: 0.9655172413793104
-best depth for precision: 17 precision: 0.9552238805970149
-best depth for f1_score: 17 f1_score: 0.9648241206030151
-best depth for recall: 8 recall: 0.9796954314720813
+best depth for accuracy: 17 accuracy: 0.9655172413793104  
+best depth for precision: 17 precision: 0.9552238805970149  
+best depth for f1_score: 17 f1_score: 0.9648241206030151  
+best depth for recall: 8 recall: 0.9796954314720813  
 
 Performace graph on the correlation between n_estimators and performance:
 ![Screenshot](pics/r3.png)
-best estimator for accuracy: 12 accuracy: 0.9679802955665024
-best estimator for precision: 2 precision: 0.9820359281437125
-best estimator for f1_score: 164 f1_score: 0.9674185463659148
-best estimator for recall: 27 recall: 0.9796954314720813
+best estimator for accuracy: 12 accuracy: 0.9679802955665024  
+best estimator for precision: 2 precision: 0.9820359281437125  
+best estimator for f1_score: 164 f1_score: 0.9674185463659148  
+best estimator for recall: 27 recall: 0.9796954314720813  
 
 Performace graph on the correlation between criterion and performance:
 ![Screenshot](pics/r2.png)
@@ -88,110 +88,23 @@ ET
 ---
 Performace graph on the correlation between max_depth and performance:
 ![Screenshot](pics/e1.png)
-best depth for accuracy: 10 accuracy: 0.9507389162561576
-best depth for precision: 17 precision: 0.9489795918367347
-best depth for f1_score: 10 f1_score: 0.949748743718593
-best depth for recall: 6 recall: 0.9644670050761421
+best depth for accuracy: 10 accuracy: 0.9507389162561576  
+best depth for precision: 17 precision: 0.9489795918367347  
+best depth for f1_score: 10 f1_score: 0.949748743718593  
+best depth for recall: 6 recall: 0.9644670050761421  
 
 Performace graph on the correlation between n_estimators and performance:
 ![Screenshot](pics/e3.png)
-best estimator for accuracy: 16 accuracy: 0.9630541871921182
-best estimator for precision: 8 precision: 0.972972972972973
-best estimator for f1_score: 16 f1_score: 0.9620253164556962
-best estimator for recall: 15 recall: 0.9644670050761421
+best estimator for accuracy: 16 accuracy: 0.9630541871921182  
+best estimator for precision: 8 precision: 0.972972972972973  
+best estimator for f1_score: 16 f1_score: 0.9620253164556962  
+best estimator for recall: 15 recall: 0.9644670050761421  
 
 Performace graph on the correlation between criterion and performance:
 ![Screenshot](pics/e2.png)
 
 MLP
 -----
-
-
-
-Update(Aug 6 2020)
----------------
-1. Decision interpretation(Contains in Covid_entropy.pdf and Covid_gini.pdf)
-2. Parameter tuning(KNN,DT,RF,NB,ET)
-3. Feature importance(By Extra Tree Classifier)
-
-KNN
-----
-The performance graph on KNN with # of neighbors as variable
-![Screenshot](KNN_performance.png)
-
-Best performance by KNN(k=3,accuracy = 93.1%)
-
-RF
----
-comparison between gini and entropy with the # of max depth as variable
-![Screenshot](RF_ge.png)
-According above graph, the max accuracy produced by gini and entropy are the same, hence max_depth = 13, criterion = 'gini' are choosed for the n_estimator comparision.
-![Screenshot](RF_maxdepth.png)
-
-
-The best performance(Accuracy) in RF is 96.3% with n_estimator = 5
-
-ET(Extra tree classifier)
--------------
-![Screenshot](ET_ge.png)
-max_depth=15, criterion = 'gini'
-![Screenshot](ET_est.png)
-
-
-The best performance(Accuracy) in ET is 95.3% with n_estimator = 120
-
-
-Feature importance
---------------
-![Screenshot](feature_importance.png)
-Feature ranking
-|Feature code| Feature name|
-| ------- | ------ |
-|feature 11 (0.196981) |Status_code|
-|feature 1 (0.179109) |Reachable_URL|
-|feature 0 (0.153517) |Created on 2020|
-|feature 10 (0.138115) |Alexa_rank|
-|feature 7 (0.067729) |Longest_word_ratio|
-|feature 6 (0.066360) |Wrong_spell_List|
-|feature 14 (0.065035) |Redirect_URL|
-|feature 4 (0.058977) |Previous_malicious_top_level_domain_TLD|
-|feature 9 (0.041357) |Contain_Weried_number_combination|
-|feature 12 (0.019624) |start_date|
-|feature 3 (0.007375) |Freenom_top_level_domain|
-|feature 2 (0.003508) |Way_back_archived|
-|feature 8 (0.001861) |sub_domain|
-|feature 13 (0.000305) |wildcard_subdomain|
-15. feature 5 (0.000146) |Name_length|
-
-Update(Jul 31 2020)
---------
-
-1. Rebuild whois search model, current non-empty rate of unlabel_data' 'start_date' is 100%.
-2. Construct the sample data with confirmed label and construct initial algorithms on the sample dataset.
-3. Removed feature 'special_mark'.
-4. data_Confirmed_whitelist_final_version3.csv and data_confirmed_CovidURL_final_version3.csv are sample data with label
-5. Algorithm tuning.ipynb contains current algorithms.
-
-Sample data structure
----------
-
-| Name | Size | # of Features |
-| ----- | ----- | ------- |
-| white_list_final | 680 | 17 |
-| confirmed_maclious_final | 548 | 17 |
-
-Algorithms performance
---------
-
-
-| Name | Accuracy | precision | recall | F1 score | Configuration | 
-| ----- | ----- | ------- | ------ | ------ | ----- |
-| DT | 93.1% | 93.1% | 93.1% | 93.0% | criterion = gini, max depth = None,max max features=auto |
-| KNN | 92.3% | 92.3% | 92.4% | 92.4% | n neighbors = 14, weights = distance,p=2 |
-| RF | 94.6% | 94.6% | 94.6% | 94.6% |n estimators = 100, max depth = None, max features=auto |
-| NB | 79.9% | 79.9% | 79.8% | 79.9% | - |
-| MLP | 86.9% | 86.9% | 86.9% | 86.9% |batch_size = 100,epochs = 30,optimizer = SGD,lr=0.0001,loss='binary_crossentropy'|
-
 
 
 
@@ -270,29 +183,5 @@ Feature correlation socre table
 ![Screenshot](WechatIMG199.jpeg)
                                       
                                                   
-                                                    
-Inital One-class SVM classification and parameter tuning process
-------------------------
-| Parameter | Value |
-| --------- | -----|
-| Kernel | poly |
-| gamma | scale |
-
-Discussion
-----------
-In the stage, Phish_tank data is regarded as negative cluster where one-class SVM model is trained on, degree of SVM model is tuned during the initial process. The rate of positive label(legitimate url) is used as performance on the observation process to find out how the level of degree would affect model performance.
-![Screenshot](p1.png)
-
-Inital DBSCAN clustering and parameter tuning process
-------------------------
-| Parameter | Value |
-| --------- | -----|
-| eps | 1.5 |
-| min_samples | 30 |
-| metric | cosine |
-| metric_params | None|
-| algorithm | auto |
-| leaf_size | 30|
-
 
 
