@@ -16,7 +16,7 @@ Note: The different best performance in the following algorithms might be result
 
 Feature importance
 --------------
-![Screenshot](feature_importance.png)
+![Screenshot](pics/a1.png)
 Feature ranking
 |Feature code| Feature name|
 | ------- | ------ |
