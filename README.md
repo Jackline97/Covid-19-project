@@ -1,17 +1,17 @@
 # Covid-19-project
 
-Update(Aug 14 2020)
+Update(Aug 24 2020)
 ------------------
 Note: The different best performance in the following algorithms might be result from different parameters which would be specially illustrate in the following description.
 
-| Name | Best_Accuracy | Best_precision | Best_recall | Best_F1 score | 
-| ----- | ----- | ------- | ------ | ------ | 
-| DT | 94.8% | 92.7% | 97.9% | 94.7% | 
-| KNN | 93.8% | 93.0% | 94.4% | 93.7% |
-| RF | 96.7% | 98.2% | 97.9% | 96.7% |
-| NB | 87.3% | 89.6% | 83.7% | 86.6% | 
-| ET | 96.3% | 97.2% | 96.4% | 96.2% | 
-| MLP | 89.6% | 89.3% | 96.4% | 89.7% |
+| Name | Best_Accuracy | Best_precision | Best_recall | Best_F1 score | Best_mean cross val score |
+| ----- | ----- | ------- | ------ | ------ | ----- |
+| DT | 91.1% | 89.6% | 93.5% | 89.6% | 91.5% |
+| KNN | 89.7% | 89.6% | 86.3% | 87.5% | 87.0% |
+| RF | 92.1% | 89.7% | 93.5% | 90.1% | 91.6% |
+| NB | 85.1% | 84.6% | 78.6% | 81.5% | 87.7 | 
+| ET | 91.9% | 90.4% | 92.2% | 90.3% | 91.6% |
+| MLP | 85.1% | 84.6% | 78.6% | 81.5% | --- |
 
 
 Feature importance
