@@ -20,36 +20,38 @@ Feature importance
 **Feature ranking**
 |Feature code| Feature name|
 | ------- | ------ |
-|feature 8 (0.292557)| Contain_Weried_number_combination|
-|feature 9 (0.194848) |Alexa_rank|
-|feature 0 (0.182058)| Created on 2020|
-|feature 3 (0.083511) |Previous_malicious_top_level_domain_TLD|
-|feature 5 (0.075750) |Wrong_spell_List|
-|feature 12 (0.054549) |Redirect_URL|
-|feature 6 (0.051481) |Longest_word_ratio|
-|feature 10 (0.049043) |start_date|
-|feature 7 (0.006558) |sub_domain|
-|feature 2 (0.005403) |Freenom_top_level_domain|
-|feature 1 (0.003594) |Way_back_archived|
-|feature 4 (0.000650) |Name_length|
-|feature 11 (0.000000) |wildcard_subdomain|
+|feature 8 (0.363817) |Contain_Weried_number_combination|
+|feature 0 (0.163590) |Created on 2020|
+|feature 5 (0.104504) |Wrong_spell_List|
+|feature 3 (0.097368) |Previous_malicious_top_level_domain_TLD|
+|feature 9 (0.093536) |Alexa_rank|
+|feature 6 (0.073895) |Longest_word_ratio|
+|feature 12 (0.058321) |Redirect_URL|
+|feature 10 (0.032749) |start_date|
+|feature 2 (0.005586) |Freenom_top_level_domain|
+|feature 7 (0.003409) |sub_domain|
+|feature 1 (0.002890) |Way_back_archived|
+|feature 4 (0.000318) |Name_length|
+|feature 11 (0.000018) |wildcard_subdomain|
 
 
 Decision Tree
 -------------
 **Performace graph on the correlation between max_depth and performance:**
 ![Screenshot](pic2/DT1.png)
-best depth for accuracy: 4 accuracy: 0.9482758620689655  
-best depth for precision: 4 precision: 0.9271844660194175  
-best depth for f1_score: 4 f1_score: 0.9478908188585609  
-best depth for recall: 3 recall: 0.9746192893401016  
+best depth for accuracy: 4 accuracy: 0.9051490514905149
+best depth for precision: 7 precision: 0.8666666666666667
+best depth for f1_score: 4 f1_score: 0.889589905362776
+best depth for recall: 3 recall: 0.935064935064935
+best depth for cross_val: 4 recall: 0.9088481338481339
 
 **Performace graph on the correlation between min_leaf_number and performance:**
 ![Screenshot](pic2/DT2.png)
-minimum sample for accuracy: 2 accuracy: 0.9482758620689655  
-minimum sample for precision: 2 precision: 0.9271844660194175  
-minimum sample for f1_score: 2 f1_score: 0.9478908188585609  
-minimum sample for recall: 17 recall: 0.9796954314720813  
+minimum sample for accuracy: 6 accuracy: 0.9105691056910569
+minimum sample for precision: 6 precision: 0.8666666666666667
+minimum sample for f1_score: 6 f1_score: 0.896551724137931
+minimum sample for recall: 17 recall: 0.9415584415584416
+minimum sample for Cross_avl: 2 Cross_val: 0.9106338481338481
 
 **Best DT visualize**
 ![Screenshot](pic2/DT3.png)
@@ -59,55 +61,59 @@ KNN
 Parameter(weights='distance',p=2)
 **Performace graph on the correlation between Number_of_K and performance:**
 ![Screenshot](pic2/KNN.png)
-best K for accuracy: 7 accuracy: 0.9384236453201971  
-best K for precision: 7 precision: 0.93  
-best K for f1_score: 7 f1_score: 0.9370277078085644  
-best K for recall: 7 recall: 0.9441624365482234  
+best K for accuracy: 13 accuracy: 0.8970189701897019
+best K for precision: 3 precision: 0.8958333333333334
+best K for f1_score: 13 f1_score: 0.875
+best K for recall: 13 recall: 0.8636363636363636
+best K for cross_val: 13 cross_val: 0.8702220077220076 
 
 RF
 ---
 **Performace graph on the correlation between max_depth and performance:**
 ![Screenshot](pic2/RF1.png)
-best depth for accuracy: 17 accuracy: 0.9655172413793104  
-best depth for precision: 17 precision: 0.9552238805970149  
-best depth for f1_score: 17 f1_score: 0.9648241206030151  
-best depth for recall: 8 recall: 0.9796954314720813  
+best depth for accuracy: 5 accuracy: 0.9105691056910569
+best depth for precision: 17 precision: 0.891156462585034
+best depth for f1_score: 5 f1_score: 0.897196261682243
+best depth for recall: 3 recall: 0.935064935064935
+best depth for Cross_val: 9 cross_val: 0.9133043758043758
 
 **Performace graph on the correlation between n_estimators and performance:**
-![Screenshot](pic2/RF2.png)
-best estimator for accuracy: 12 accuracy: 0.9679802955665024  
-best estimator for precision: 2 precision: 0.9820359281437125  
-best estimator for f1_score: 164 f1_score: 0.9674185463659148  
-best estimator for recall: 27 recall: 0.9796954314720813  
+![Screenshot](pic2/RF3.png)
+best estimator for accuracy: 19 accuracy: 0.9214092140921409
+best estimator for precision: 2 precision: 0.8976377952755905
+best estimator for f1_score: 19 f1_score: 0.9090909090909091
+best estimator for recall: 19 recall: 0.9415584415584416
+best estimator for Cross_val: 271 Cross_val: 0.915990990990991
 
 **Performace graph on the correlation between criterion and performance:**
-![Screenshot](pic2/RF3.png)
+![Screenshot](pic2/RF2.png)
 
 
 ET
 ---
 **Performace graph on the correlation between max_depth and performance:**
 ![Screenshot](pic2/ET1.png)
-best depth for accuracy: 10 accuracy: 0.9507389162561576  
-best depth for precision: 17 precision: 0.9489795918367347  
-best depth for f1_score: 10 f1_score: 0.949748743718593  
-best depth for recall: 6 recall: 0.9644670050761421  
+best depth for accuracy: 14 accuracy: 0.9186991869918699
+best depth for precision: 24 precision: 0.9041095890410958
+best depth for f1_score: 14 f1_score: 0.9038461538461539
+best depth for recall: 7 recall: 0.922077922077922
+best depth for Cross_val: 13 Cross score: 0.9087998712998713 
 
 **Performace graph on the correlation between n_estimators and performance:**
-![Screenshot](pic2/ET2.png)
-best estimator for accuracy: 16 accuracy: 0.9630541871921182  
-best estimator for precision: 8 precision: 0.972972972972973  
-best estimator for f1_score: 16 f1_score: 0.9620253164556962  
-best estimator for recall: 15 recall: 0.9644670050761421  
+![Screenshot](pic2/ET3.png)
+best estimator for accuracy: 3 accuracy: 0.9159891598915989
+best estimator for precision: 238 precision: 0.89171974522293
+best estimator for f1_score: 3 f1_score: 0.9009584664536741
+best estimator for recall: 3 recall: 0.9155844155844156
+best estimator for Cross_val: 57 cross val: 0.9159829472329472  
 
 **Performace graph on the correlation between criterion and performance:**
-![Screenshot](pic2/ET3.png)
+![Screenshot](pic2/ET2.png)
 
 MLP
 -----
 ![Screenshot](pics/MLP2.png)
 **Performace graph on the correlation between batch_size and performance:**
-![Screenshot](pics/MLP1.png)
 best batch_size for accuracy: 19 accuracy: 0.896551724137931  
 best batch_size for precision: 23 precision: 0.8936170212765957  
 best batch_size for f1_score: 19 f1_score: 0.8975609756097561  
